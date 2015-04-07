@@ -639,16 +639,16 @@ a {
 .cont-26 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 224px;
-	width: 224px;
-	min-height: 204px;
+	min-width: 232px;
+	width: 232px;
+	min-height: 162px;
 	position: relative;
 	z-index: 18;
 	margin-left: 21px;
-	margin-top: -339px;
+	margin-top: -288px;
 }
 .gallery .slider {
-	height: 204px;
+	height: 162px;
 }
 .gallery .slick-prev, .gallery .slick-next { height: 20px; width: 20px; margin-top: -10px; }
 .gallery .slick-prev:before, .gallery .slick-next:before { font-size: 20px; color: rgb(77,184,246); opacity: 0.75; }
