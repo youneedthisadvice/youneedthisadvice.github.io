@@ -97,7 +97,7 @@ a {
 	width: 101px;
 	min-height: 126px;
 	position: relative;
-	z-index: 2;
+	z-index: 3;
 	margin-left: 195px;
 	margin-top: 0px;
 	height: 126px;
@@ -120,7 +120,7 @@ a {
 	width: 419px;
 	min-height: 29px;
 	position: relative;
-	z-index: 5;
+	z-index: 4;
 	margin-left: 36px;
 	margin-top: 2px;
 	overflow: hidden;
@@ -233,7 +233,7 @@ a {
 	min-height: 62px;
 	height: 62px;
 	position: relative;
-	z-index: 21;
+	z-index: 19;
 	margin-left: 0px;
 	margin-top: 0px;
 	border: 2px solid rgb(252,252,252);
@@ -247,7 +247,7 @@ a {
 	width: 439px;
 	min-height: 29px;
 	position: relative;
-	z-index: 10;
+	z-index: 7;
 	margin-left: 2px;
 	margin-top: -48px;
 	overflow: hidden;
@@ -300,7 +300,7 @@ a {
 	width: 368px;
 	min-height: 32px;
 	position: relative;
-	z-index: 11;
+	z-index: 12;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -343,7 +343,7 @@ a {
 	width: 71px;
 	min-height: 30px;
 	position: relative;
-	z-index: 12;
+	z-index: 13;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -443,6 +443,7 @@ a {
 	width: 106px;
 	min-height: 135px;
 	position: relative;
+	z-index: 11;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 135px;
@@ -472,7 +473,7 @@ a {
 	width: 281px;
 	min-height: 44px;
 	position: relative;
-	z-index: 13;
+	z-index: 14;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -584,7 +585,7 @@ a {
 	width: 279px;
 	min-height: 577px;
 	position: relative;
-	z-index: 1;
+	z-index: 2;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 577px;
@@ -599,19 +600,19 @@ a {
 .cont-24 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 270px;
-	width: 270px;
-	min-height: 437px;
+	min-width: 259px;
+	width: 259px;
+	min-height: 454px;
 	position: relative;
-	margin-left: 6px;
-	margin-top: -507px;
+	margin-left: 10px;
+	margin-top: -516px;
 }
 .colwrapper-10 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 270px;
-	width: 270px;
-	min-height: 437px;
+	min-width: 259px;
+	width: 259px;
+	min-height: 454px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -620,35 +621,16 @@ a {
 .cont-25 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 270px;
-	width: 270px;
-	min-height: 437px;
+	min-width: 259px;
+	width: 259px;
+	min-height: 454px;
 	position: relative;
-	z-index: 7;
+	z-index: 1;
 	margin-left: 0px;
 	margin-top: 0px;
-	height: 437px;
-}
-.img-6 {
-	position: absolute;
-	left: 12px;
-	width: 246px;
-	height: 437px;
-	top: 0;
-}
-.cont-26 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 232px;
-	width: 232px;
-	min-height: 162px;
-	position: relative;
-	z-index: 18;
-	margin-left: 21px;
-	margin-top: -288px;
 }
 .gallery .slider {
-	height: 162px;
+	height: 454px;
 }
 .gallery .slick-prev, .gallery .slick-next { height: 20px; width: 20px; margin-top: -10px; }
 .gallery .slick-prev:before, .gallery .slick-next:before { font-size: 20px; color: rgb(77,184,246); opacity: 0.75; }
@@ -666,6 +648,25 @@ a {
 [dir="rtl"] .gallery .slick-next {right: auto;left: -25px;}
 [dir="rtl"] .gallery .slick-prev {right: -25px;left: auto;}
 .slider img { width: 100%; }
+.cont-26 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 240px;
+	width: 240px;
+	min-height: 14px;
+	position: relative;
+	z-index: 8;
+	margin-left: 10px;
+	margin-top: -443px;
+	height: 14px;
+}
+.img-6 {
+	position: absolute;
+	left: 0;
+	width: 240px;
+	height: 7px;
+	top: 4px;
+}
 .cont-27 {
 	display: inline-block;
 	vertical-align: top;
@@ -673,8 +674,8 @@ a {
 	width: 224px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 21px;
-	margin-top: -34px;
+	margin-left: 17px;
+	margin-top: -42px;
 }
 .colwrapper-11 {
 	display: inline-block;
@@ -694,7 +695,7 @@ a {
 	width: 109px;
 	min-height: 20px;
 	position: relative;
-	z-index: 22;
+	z-index: 17;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -716,7 +717,7 @@ a {
 	width: 90px;
 	min-height: 20px;
 	position: relative;
-	z-index: 19;
+	z-index: 20;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -748,7 +749,7 @@ a {
 	width: 31px;
 	min-height: 39px;
 	position: relative;
-	z-index: 20;
+	z-index: 22;
 	margin-left: 405px;
 	margin-top: 0px;
 	height: 39px;
@@ -771,7 +772,7 @@ a {
 	width: 600px;
 	min-height: 41px;
 	position: relative;
-	z-index: 17;
+	z-index: 21;
 	margin-left: 0px;
 	margin-top: -36px;
 }
@@ -803,7 +804,7 @@ a {
 	width: 600px;
 	min-height: 39px;
 	position: relative;
-	z-index: 8;
+	z-index: 9;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -852,7 +853,7 @@ a {
 	width: 39px;
 	min-height: 32px;
 	position: relative;
-	z-index: 9;
+	z-index: 10;
 	margin-left: 357px;
 	margin-top: -30px;
 	overflow: hidden;
@@ -885,7 +886,7 @@ a {
 	min-height: 84px;
 	height: 84px;
 	position: relative;
-	z-index: 16;
+	z-index: 18;
 	margin-top: -34px;
 	border: 0;
 	background-color: transparent;
@@ -908,7 +909,7 @@ a {
 	vertical-align: top;
 	min-width: 320px;
 	width: 320px;
-	min-height: 813px;
+	min-height: 821px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -918,7 +919,7 @@ a {
 	vertical-align: top;
 	min-width: 320px;
 	width: 320px;
-	min-height: 813px;
+	min-height: 821px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -931,7 +932,7 @@ a {
 	width: 54px;
 	min-height: 54px;
 	position: relative;
-	z-index: 2;
+	z-index: 3;
 	margin-left: 133px;
 	margin-top: 0px;
 	height: 54px;
@@ -954,7 +955,7 @@ a {
 	width: 320px;
 	min-height: 29px;
 	position: relative;
-	z-index: 5;
+	z-index: 4;
 	margin-left: 0px;
 	margin-top: 9px;
 	overflow: hidden;
@@ -1046,7 +1047,7 @@ a {
 	min-height: 36px;
 	position: relative;
 	margin-left: 24px;
-	margin-top: 486px;
+	margin-top: 501px;
 }
 .colwrapper-2 {
 	display: inline-block;
@@ -1067,7 +1068,7 @@ a {
 	min-height: 32px;
 	height: 32px;
 	position: relative;
-	z-index: 21;
+	z-index: 19;
 	margin-left: 0px;
 	margin-top: 0px;
 	border: 2px solid rgb(252,252,252);
@@ -1081,7 +1082,7 @@ a {
 	width: 266px;
 	min-height: 28px;
 	position: relative;
-	z-index: 10;
+	z-index: 7;
 	margin-left: 2px;
 	margin-top: -28px;
 	overflow: hidden;
@@ -1134,7 +1135,7 @@ a {
 	width: 241px;
 	min-height: 21px;
 	position: relative;
-	z-index: 11;
+	z-index: 12;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -1177,7 +1178,7 @@ a {
 	width: 44px;
 	min-height: 26px;
 	position: relative;
-	z-index: 12;
+	z-index: 13;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1256,8 +1257,8 @@ a {
 	width: 292px;
 	min-height: 121px;
 	position: relative;
-	margin-left: 17px;
-	margin-top: 5px;
+	margin-left: 13px;
+	margin-top: -2px;
 }
 .colwrapper-7 {
 	display: inline-block;
@@ -1277,6 +1278,7 @@ a {
 	width: 76px;
 	min-height: 121px;
 	position: relative;
+	z-index: 11;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 121px;
@@ -1306,7 +1308,7 @@ a {
 	width: 193px;
 	min-height: 29px;
 	position: relative;
-	z-index: 13;
+	z-index: 14;
 	margin-left: 11px;
 	margin-top: 0px;
 }
@@ -1393,49 +1395,49 @@ a {
 .colwrapper-9 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 320px;
-	width: 320px;
-	min-height: 466px;
+	min-width: 258px;
+	width: 258px;
+	min-height: 488px;
 	position: relative;
-	margin-left: 0px;
-	margin-top: -681px;
+	margin-left: 31px;
+	margin-top: -693px;
 	line-height: 0;
 }
 .cont-23 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 320px;
-	width: 320px;
-	min-height: 466px;
+	min-width: 258px;
+	width: 258px;
+	min-height: 488px;
 	position: relative;
-	z-index: 1;
+	z-index: 2;
 	margin-left: 0px;
 	margin-top: 0px;
-	height: 466px;
+	height: 488px;
 }
 .img-5 {
 	position: absolute;
-	left: 46px;
-	width: 227px;
-	height: 466px;
+	left: 10px;
+	width: 238px;
+	height: 488px;
 	top: 0;
 }
 .cont-24 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 214px;
-	width: 214px;
-	min-height: 354px;
+	min-width: 216px;
+	width: 216px;
+	min-height: 404px;
 	position: relative;
-	margin-left: 53px;
-	margin-top: -410px;
+	margin-left: 20px;
+	margin-top: -446px;
 }
 .colwrapper-10 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 214px;
-	width: 214px;
-	min-height: 354px;
+	min-width: 216px;
+	width: 216px;
+	min-height: 404px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -1444,45 +1446,45 @@ a {
 .cont-25 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 214px;
-	width: 214px;
-	min-height: 354px;
+	min-width: 216px;
+	width: 216px;
+	min-height: 404px;
 	position: relative;
-	z-index: 7;
+	z-index: 1;
 	margin-left: 0px;
 	margin-top: 0px;
-	height: 354px;
 }
-.img-6 {
-	position: absolute;
-	left: 7px;
-	width: 200px;
-	height: 354px;
-	top: 0;
+.gallery .slider {
+	height: 404px;
 }
 .cont-26 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 200px;
-	width: 200px;
-	min-height: 100px;
+	min-width: 202px;
+	width: 202px;
+	min-height: 17px;
 	position: relative;
-	z-index: 18;
-	margin-left: 7px;
-	margin-top: -227px;
+	z-index: 8;
+	margin-left: 8px;
+	margin-top: -390px;
+	height: 17px;
 }
-.gallery .slider {
-	height: 100px;
+.img-6 {
+	position: absolute;
+	left: 0;
+	width: 202px;
+	height: 6px;
+	top: 6px;
 }
 .cont-27 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 185px;
-	width: 185px;
+	min-width: 187px;
+	width: 187px;
 	min-height: 20px;
 	position: relative;
 	margin-left: 14px;
-	margin-top: -27px;
+	margin-top: -44px;
 }
 .colwrapper-11 {
 	display: inline-block;
@@ -1502,7 +1504,7 @@ a {
 	width: 36px;
 	min-height: 20px;
 	position: relative;
-	z-index: 22;
+	z-index: 17;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1513,7 +1515,7 @@ a {
 	width: 90px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 59px;
+	margin-left: 61px;
 	margin-top: 0px;
 	line-height: 0;
 }
@@ -1524,7 +1526,7 @@ a {
 	width: 90px;
 	min-height: 20px;
 	position: relative;
-	z-index: 19;
+	z-index: 20;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1536,7 +1538,7 @@ a {
 	min-height: 42px;
 	position: relative;
 	margin-left: 45px;
-	margin-top: 25px;
+	margin-top: 17px;
 }
 .colwrapper-13 {
 	display: inline-block;
@@ -1556,7 +1558,7 @@ a {
 	width: 31px;
 	min-height: 30px;
 	position: relative;
-	z-index: 20;
+	z-index: 22;
 	margin-left: 184px;
 	margin-top: 0px;
 	height: 30px;
@@ -1579,7 +1581,7 @@ a {
 	width: 207px;
 	min-height: 39px;
 	position: relative;
-	z-index: 17;
+	z-index: 21;
 	margin-left: 0px;
 	margin-top: -27px;
 }
@@ -1611,7 +1613,7 @@ a {
 	width: 207px;
 	min-height: 39px;
 	position: relative;
-	z-index: 8;
+	z-index: 9;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -1660,7 +1662,7 @@ a {
 	width: 13px;
 	min-height: 18px;
 	position: relative;
-	z-index: 9;
+	z-index: 10;
 	margin-left: 151px;
 	margin-top: -30px;
 	overflow: hidden;
@@ -1693,7 +1695,7 @@ a {
 	min-height: 28px;
 	height: 28px;
 	position: relative;
-	z-index: 16;
+	z-index: 18;
 	margin-top: -21px;
 	border: 0;
 	background-color: transparent;
