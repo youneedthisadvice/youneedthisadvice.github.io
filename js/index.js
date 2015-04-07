@@ -42,5 +42,5 @@ if(! document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Imag
 $('.img-6').attr('src', 'images/bgstat-200.png');
 
 }
-$('.gallery .slider').slick({lazyLoad: 'ondemand',slidesToShow: 1,slidesToScroll: 1,speed: 200,dots: false,arrows: false,infinite: false,autoplay: true,autoplaySpeed: 3500});
+$('.gallery .slider').slick({lazyLoad: 'ondemand',slidesToShow: 1,slidesToScroll: 1,speed: 200,dots: false,arrows: false,infinite: false,autoplay: true,autoplaySpeed: 4500});
 });
