@@ -233,7 +233,7 @@ a {
 	min-height: 62px;
 	height: 62px;
 	position: relative;
-	z-index: 22;
+	z-index: 21;
 	margin-left: 0px;
 	margin-top: 0px;
 	border: 1px solid rgb(252,252,252);
@@ -694,7 +694,7 @@ a {
 	width: 109px;
 	min-height: 20px;
 	position: relative;
-	z-index: 19;
+	z-index: 22;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -716,7 +716,7 @@ a {
 	width: 90px;
 	min-height: 20px;
 	position: relative;
-	z-index: 20;
+	z-index: 19;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -748,7 +748,7 @@ a {
 	width: 31px;
 	min-height: 39px;
 	position: relative;
-	z-index: 21;
+	z-index: 20;
 	margin-left: 405px;
 	margin-top: 0px;
 	height: 39px;
@@ -896,7 +896,7 @@ a {
 }
 .section {
 	position: relative;
-	margin-top: 5px;
+	margin-top: 18px;
 	min-width: 320px;
 	width: 320px;
 	margin-left: auto;
@@ -908,7 +908,7 @@ a {
 	vertical-align: top;
 	min-width: 320px;
 	width: 320px;
-	min-height: 805px;
+	min-height: 813px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -918,7 +918,7 @@ a {
 	vertical-align: top;
 	min-width: 320px;
 	width: 320px;
-	min-height: 805px;
+	min-height: 813px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -956,7 +956,7 @@ a {
 	position: relative;
 	z-index: 5;
 	margin-left: 0px;
-	margin-top: 5px;
+	margin-top: 9px;
 	overflow: hidden;
 }
 .para {
@@ -1046,7 +1046,7 @@ a {
 	min-height: 35px;
 	position: relative;
 	margin-left: 25px;
-	margin-top: 483px;
+	margin-top: 487px;
 }
 .colwrapper-2 {
 	display: inline-block;
@@ -1067,7 +1067,7 @@ a {
 	min-height: 32px;
 	height: 32px;
 	position: relative;
-	z-index: 22;
+	z-index: 21;
 	margin-left: 0px;
 	margin-top: 0px;
 	border: 1px solid rgb(252,252,252);
@@ -1427,7 +1427,7 @@ a {
 	width: 214px;
 	min-height: 354px;
 	position: relative;
-	margin-left: 52px;
+	margin-left: 53px;
 	margin-top: -410px;
 }
 .colwrapper-10 {
@@ -1468,7 +1468,7 @@ a {
 	min-height: 100px;
 	position: relative;
 	z-index: 18;
-	margin-left: 8px;
+	margin-left: 7px;
 	margin-top: -227px;
 }
 .gallery .slider {
@@ -1481,7 +1481,7 @@ a {
 	width: 185px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 15px;
+	margin-left: 14px;
 	margin-top: -27px;
 }
 .colwrapper-11 {
@@ -1502,7 +1502,7 @@ a {
 	width: 36px;
 	min-height: 20px;
 	position: relative;
-	z-index: 19;
+	z-index: 22;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1524,7 +1524,7 @@ a {
 	width: 90px;
 	min-height: 20px;
 	position: relative;
-	z-index: 20;
+	z-index: 19;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1556,7 +1556,7 @@ a {
 	width: 31px;
 	min-height: 30px;
 	position: relative;
-	z-index: 21;
+	z-index: 20;
 	margin-left: 184px;
 	margin-top: 0px;
 	height: 30px;
@@ -1694,7 +1694,7 @@ a {
 	height: 28px;
 	position: relative;
 	z-index: 16;
-	margin-top: 0px;
+	margin-top: -21px;
 	border: 0;
 	background-color: transparent;
 }
