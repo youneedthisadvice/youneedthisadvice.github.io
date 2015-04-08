@@ -659,8 +659,8 @@ a {
 .cont-27 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 259px;
-	width: 259px;
+	min-width: 270px;
+	width: 270px;
 	min-height: 454px;
 	position: relative;
 	margin-left: 9px;
@@ -669,8 +669,8 @@ a {
 .colwrapper-12 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 259px;
-	width: 259px;
+	min-width: 270px;
+	width: 270px;
 	min-height: 454px;
 	position: relative;
 	margin-left: 0px;
@@ -729,8 +729,8 @@ a {
 .cont-30 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 224px;
-	width: 224px;
+	min-width: 253px;
+	width: 253px;
 	min-height: 20px;
 	position: relative;
 	margin-left: 17px;
@@ -761,19 +761,19 @@ a {
 .colwrapper-14 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 90px;
-	width: 90px;
+	min-width: 88px;
+	width: 88px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 25px;
+	margin-left: 56px;
 	margin-top: 0px;
 	line-height: 0;
 }
 .cont-32 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 90px;
-	width: 90px;
+	min-width: 88px;
+	width: 88px;
 	min-height: 20px;
 	position: relative;
 	z-index: 20;
@@ -1171,13 +1171,13 @@ a {
 	z-index: 24;
 	margin-left: 0px;
 	margin-top: 0px;
-	overflow: visible;
+	overflow: hidden;
 }
 .para-15 {
 	text-indent: 0;
-	padding-top: 1pt;
+	padding-top: 0pt;
 	margin-top: 0pt;
-	margin-bottom: -1pt;
+	margin-bottom: 0pt;
 	text-align: center;
 }
 .font-16 {
@@ -1187,11 +1187,11 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(252,252,252);
-	line-height: 12pt;
+	line-height: 10pt;
 	letter-spacing: normal;
 }
 .cont-51 {
-	overflow: hidden;
+	overflow: visible;
 }
 .cont-52 {
 	display: inline-block;
@@ -2274,13 +2274,13 @@ a {
 	z-index: 24;
 	margin-left: 1px;
 	margin-top: 41px;
-	overflow: visible;
+	overflow: hidden;
 }
 .para-15 {
 	text-indent: 0;
-	padding-top: 1pt;
+	padding-top: 0pt;
 	margin-top: 0pt;
-	margin-bottom: -1pt;
+	margin-bottom: 0pt;
 	text-align: center;
 }
 .font-16 {
@@ -2290,11 +2290,11 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(252,252,252);
-	line-height: 9pt;
+	line-height: 8pt;
 	letter-spacing: normal;
 }
 .cont-51 {
-	overflow: hidden;
+	overflow: visible;
 }
 .cont-52 {
 	display: inline-block;
