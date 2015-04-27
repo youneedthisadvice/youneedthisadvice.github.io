@@ -11,31 +11,31 @@ function em1() {
 $(document).ready(function() {
 r = function() {
 if($(window).width() >= 960) {
-$('.img').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ynta-300.png' : 'images/ynta-200.png') : 'images/ynta-100.png');
-$('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-logo-123.png' : 'images/apple-logo-82.png') : 'images/apple-logo-41.png');
-$('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/yc-90.jpg' : 'images/yc-60.jpg') : 'images/yc-30.jpg');
-$('.img-4').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/stanford_big-90.png' : 'images/stanford_big-60.png') : 'images/stanford_big-30.png');
-$('.img-5').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-3x-825.png' : 'images/apple-iphone-8-3x-550.png') : 'images/apple-iphone-8-3x-275.png');
-var a='data-lazy'; if($('.gallery .slide0').hasAttr('src')) { a='src'; } $('.gallery .slide0').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide1-777.png' : 'images/slide1-518.png') : 'images/slide1-259.png');
-var a='data-lazy'; if($('.gallery .slide1').hasAttr('src')) { a='src'; } $('.gallery .slide1').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide2-777.png' : 'images/slide2-518.png') : 'images/slide2-259.png');
-var a='data-lazy'; if($('.gallery .slide2').hasAttr('src')) { a='src'; } $('.gallery .slide2').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide3-777.png' : 'images/slide3-518.png') : 'images/slide3-259.png');
-var a='data-lazy'; if($('.gallery .slide3').hasAttr('src')) { a='src'; } $('.gallery .slide3').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide4-777.png' : 'images/slide4-518.png') : 'images/slide4-259.png');
-var a='data-lazy'; if($('.gallery .slide4').hasAttr('src')) { a='src'; } $('.gallery .slide4').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide5-777.png' : 'images/slide5-518.png') : 'images/slide5-259.png');
-$('.img-6').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/status-bar-white-min-708.png' : 'images/status-bar-white-min-472.png') : 'images/status-bar-white-min-236.png');
-$('.img-7').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon_friendly_720px_trans-78.png' : 'images/pigeon_friendly_720px_trans-52.png') : 'images/pigeon_friendly_720px_trans-26.png');
+$('.img').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/logo-3x-min-204.png' : 'images/logo-3x-min-136.png') : 'images/logo-3x-min-68.png');
+$('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon-3x-48.png' : 'images/pigeon-3x-32.png') : 'images/pigeon-3x-16-2.png');
+$('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/line-devices-3x-min-84.png' : 'images/line-devices-3x-min-56.png') : 'images/line-devices-3x-min-28.png');
+$('.img-4').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-3x-min-1260.png' : 'images/apple-iphone-8-3x-min-840.png') : 'images/apple-iphone-8-3x-min-420-2.png');
+var a='data-lazy'; if($('.gallery .slide0').hasAttr('src')) { a='src'; } $('.gallery .slide0').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_1_min-1140.png' : 'images/ph-slide_1_min-760.png') : 'images/ph-slide_1_min-380.png');
+var a='data-lazy'; if($('.gallery .slide1').hasAttr('src')) { a='src'; } $('.gallery .slide1').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_2_min-1140.png' : 'images/ph-slide_2_min-760.png') : 'images/ph-slide_2_min-380.png');
+var a='data-lazy'; if($('.gallery .slide2').hasAttr('src')) { a='src'; } $('.gallery .slide2').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_3_min-1140.png' : 'images/ph-slide_3_min-760.png') : 'images/ph-slide_3_min-380.png');
+var a='data-lazy'; if($('.gallery .slide3').hasAttr('src')) { a='src'; } $('.gallery .slide3').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_4_min-1140.png' : 'images/ph-slide_4_min-760.png') : 'images/ph-slide_4_min-380.png');
+var a='data-lazy'; if($('.gallery .slide4').hasAttr('src')) { a='src'; } $('.gallery .slide4').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_5_min-1140.png' : 'images/ph-slide_5_min-760.png') : 'images/ph-slide_5_min-380.png');
+var a='data-lazy'; if($('.gallery .slide5').hasAttr('src')) { a='src'; } $('.gallery .slide5').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_6_min-1140.png' : 'images/ph-slide_6_min-760.png') : 'images/ph-slide_6_min-380.png');
+var a='data-lazy'; if($('.gallery .slide6').hasAttr('src')) { a='src'; } $('.gallery .slide6').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_7_min-1140.png' : 'images/ph-slide_7_min-760.png') : 'images/ph-slide_7_min-380.png');
+$('.img-5').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-path-3-162.png' : 'images/apple-iphone-8-path-3-108.png') : 'images/apple-iphone-8-path-3-54-2.png');
 } else {
-$('.img').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ynta-162.png' : 'images/ynta-108.png') : 'images/ynta-54.png');
-$('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-logo-72.png' : 'images/apple-logo-48.png') : 'images/apple-logo-24.png');
-$('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/yc-57.jpg' : 'images/yc-38.jpg') : 'images/yc-19.jpg');
-$('.img-4').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/stanford_big-57.png' : 'images/stanford_big-38.png') : 'images/stanford_big-19.png');
-$('.img-5').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-3x-714.png' : 'images/apple-iphone-8-3x-476.png') : 'images/apple-iphone-8-3x-238.png');
-var a='data-lazy'; if($('.gallery .slide0').hasAttr('src')) { a='src'; } $('.gallery .slide0').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide1-648.png' : 'images/slide1-432.png') : 'images/slide1-216.png');
-var a='data-lazy'; if($('.gallery .slide1').hasAttr('src')) { a='src'; } $('.gallery .slide1').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide2-648.png' : 'images/slide2-432.png') : 'images/slide2-216.png');
-var a='data-lazy'; if($('.gallery .slide2').hasAttr('src')) { a='src'; } $('.gallery .slide2').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide3-648.png' : 'images/slide3-432.png') : 'images/slide3-216.png');
-var a='data-lazy'; if($('.gallery .slide3').hasAttr('src')) { a='src'; } $('.gallery .slide3').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide4-648.png' : 'images/slide4-432.png') : 'images/slide4-216.png');
-var a='data-lazy'; if($('.gallery .slide4').hasAttr('src')) { a='src'; } $('.gallery .slide4').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/slide5-648.png' : 'images/slide5-432.png') : 'images/slide5-216.png');
-$('.img-6').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/status-bar-white-min-606.png' : 'images/status-bar-white-min-404.png') : 'images/status-bar-white-min-202.png');
-$('.img-7').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon_friendly_720px_trans-57.png' : 'images/pigeon_friendly_720px_trans-38.png') : 'images/pigeon_friendly_720px_trans-19.png');
+$('.img').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/logo-3x-min-69.png' : 'images/logo-3x-min-46.png') : 'images/logo-3x-min-23.png');
+$('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon-3x-24.png' : 'images/pigeon-3x-16.png') : 'images/pigeon-3x-8.png');
+$('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/line-devices-3x-min-27.png' : 'images/line-devices-3x-min-18.png') : 'images/line-devices-3x-min-9.png');
+$('.img-4').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-3x-min-420.png' : 'images/apple-iphone-8-3x-min-280.png') : 'images/apple-iphone-8-3x-min-140.png');
+var a='data-lazy'; if($('.gallery .slide0').hasAttr('src')) { a='src'; } $('.gallery .slide0').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_1_min-381.png' : 'images/ph-slide_1_min-254.png') : 'images/ph-slide_1_min-127.png');
+var a='data-lazy'; if($('.gallery .slide1').hasAttr('src')) { a='src'; } $('.gallery .slide1').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_2_min-381.png' : 'images/ph-slide_2_min-254.png') : 'images/ph-slide_2_min-127.png');
+var a='data-lazy'; if($('.gallery .slide2').hasAttr('src')) { a='src'; } $('.gallery .slide2').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_3_min-381.png' : 'images/ph-slide_3_min-254.png') : 'images/ph-slide_3_min-127.png');
+var a='data-lazy'; if($('.gallery .slide3').hasAttr('src')) { a='src'; } $('.gallery .slide3').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_4_min-381.png' : 'images/ph-slide_4_min-254.png') : 'images/ph-slide_4_min-127.png');
+var a='data-lazy'; if($('.gallery .slide4').hasAttr('src')) { a='src'; } $('.gallery .slide4').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_5_min-381.png' : 'images/ph-slide_5_min-254.png') : 'images/ph-slide_5_min-127.png');
+var a='data-lazy'; if($('.gallery .slide5').hasAttr('src')) { a='src'; } $('.gallery .slide5').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_6_min-381.png' : 'images/ph-slide_6_min-254.png') : 'images/ph-slide_6_min-127.png');
+var a='data-lazy'; if($('.gallery .slide6').hasAttr('src')) { a='src'; } $('.gallery .slide6').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_7_min-381.png' : 'images/ph-slide_7_min-254.png') : 'images/ph-slide_7_min-127.png');
+$('.img-5').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-path-3-54.png' : 'images/apple-iphone-8-path-3-36.png') : 'images/apple-iphone-8-path-3-18.png');
 }
 };
 $(window).resize(r);
