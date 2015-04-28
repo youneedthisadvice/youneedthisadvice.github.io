@@ -337,13 +337,13 @@ a {
 .cont-11 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 406px;
-	width: 406px;
+	min-width: 429px;
+	width: 429px;
 	min-height: 73px;
 	position: relative;
-	z-index: 29;
+	z-index: 28;
 	margin-left: 0px;
-	margin-top: 8px;
+	margin-top: 5px;
 	overflow: visible;
 }
 .para-6 {
@@ -355,22 +355,22 @@ a {
 }
 .font-10 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 12.0pt;
+	font-size: 13.5pt;
 	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 16pt;
+	line-height: 18pt;
 	letter-spacing: 1.00px;
 }
 .font-11 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 12.0pt;
+	font-size: 13.5pt;
 	font-weight: 300;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 16pt;
+	line-height: 18pt;
 	letter-spacing: 1.00px;
 }
 .para-7 {
@@ -382,12 +382,12 @@ a {
 }
 .font-12 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 12.0pt;
+	font-size: 13.5pt;
 	font-weight: 300;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 16pt;
+	line-height: 18pt;
 	letter-spacing: 1.00px;
 }
 .cont-12 {
@@ -402,7 +402,7 @@ a {
 	position: relative;
 	z-index: 7;
 	margin-left: 75px;
-	margin-top: 10px;
+	margin-top: 13px;
 }
 .button {
 	width: 229px;
@@ -1068,7 +1068,7 @@ a {
 	width: 380px;
 	min-height: 445px;
 	position: relative;
-	z-index: 28;
+	z-index: 29;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1416,11 +1416,11 @@ a {
 .cont-11 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 190px;
-	width: 190px;
+	min-width: 180px;
+	width: 180px;
 	min-height: 25px;
 	position: relative;
-	z-index: 29;
+	z-index: 28;
 	margin-left: 0px;
 	margin-top: 7px;
 	overflow: visible;
@@ -2137,7 +2137,7 @@ a {
 	width: 127px;
 	min-height: 147px;
 	position: relative;
-	z-index: 28;
+	z-index: 29;
 	margin-left: 0px;
 	margin-top: 0px;
 }
