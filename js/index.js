@@ -11,7 +11,7 @@ function em1() {
 $(document).ready(function() {
 r = function() {
 if($(window).width() >= 960) {
-$('.img').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/logo-3x-min-204.png' : 'images/logo-3x-min-136.png') : 'images/logo-3x-min-68.png');
+$('.img').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/logo-3x-min-210.png' : 'images/logo-3x-min-140.png') : 'images/logo-3x-min-70.png');
 $('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon-3x-48.png' : 'images/pigeon-3x-32.png') : 'images/pigeon-3x-16-2.png');
 $('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/line-devices-3x-min-84.png' : 'images/line-devices-3x-min-56.png') : 'images/line-devices-3x-min-28.png');
 $('.img-4').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-3x-min-1260.png' : 'images/apple-iphone-8-3x-min-840.png') : 'images/apple-iphone-8-3x-min-420-2.png');
