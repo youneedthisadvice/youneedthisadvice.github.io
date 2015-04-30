@@ -74,7 +74,7 @@ a {
 }
 .section {
 	position: relative;
-	margin-top: 9px;
+	margin-top: 12px;
 	min-width: 960px;
 	width: 960px;
 	margin-left: auto;
@@ -84,19 +84,19 @@ a {
 .cont-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 807px;
-	width: 807px;
-	min-height: 81px;
+	min-width: 800px;
+	width: 800px;
+	min-height: 78px;
 	position: relative;
-	margin-left: 79px;
+	margin-left: 86px;
 	margin-top: 0px;
 }
 .colwrapper {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 71px;
-	width: 71px;
-	min-height: 72px;
+	min-width: 64px;
+	width: 64px;
+	min-height: 64px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -105,21 +105,21 @@ a {
 .cont-3 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 71px;
-	width: 71px;
-	min-height: 72px;
+	min-width: 64px;
+	width: 64px;
+	min-height: 64px;
 	position: relative;
 	z-index: 7;
 	margin-left: 0px;
 	margin-top: 0px;
-	height: 72px;
+	height: 64px;
 }
 .img {
 	position: absolute;
 	left: 0;
-	width: 71px;
-	height: 71px;
-	top: 1px;
+	width: 64px;
+	height: 64px;
+	top: 0;
 }
 .colwrapper-2 {
 	display: inline-block;
@@ -129,7 +129,7 @@ a {
 	min-height: 77px;
 	position: relative;
 	margin-left: 29px;
-	margin-top: 4px;
+	margin-top: 1px;
 	line-height: 0;
 }
 .cont-4 {
@@ -1832,7 +1832,7 @@ a {
 }
 .section {
 	position: relative;
-	margin-top: 5px;
+	margin-top: 7px;
 	min-width: 320px;
 	width: 320px;
 	margin-left: auto;
@@ -1842,19 +1842,19 @@ a {
 .cont-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 307px;
-	width: 307px;
-	min-height: 35px;
+	min-width: 302px;
+	width: 302px;
+	min-height: 33px;
 	position: relative;
-	margin-left: 13px;
+	margin-left: 18px;
 	margin-top: 0px;
 }
 .colwrapper {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 34px;
-	width: 34px;
-	min-height: 34px;
+	min-width: 28px;
+	width: 28px;
+	min-height: 28px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -1863,20 +1863,20 @@ a {
 .cont-3 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 34px;
-	width: 34px;
-	min-height: 34px;
+	min-width: 28px;
+	width: 28px;
+	min-height: 28px;
 	position: relative;
 	z-index: 7;
 	margin-left: 0px;
 	margin-top: 0px;
-	height: 34px;
+	height: 28px;
 }
 .img {
 	position: absolute;
 	left: 0;
-	width: 34px;
-	height: 34px;
+	width: 28px;
+	height: 28px;
 	top: 0;
 }
 .colwrapper-2 {
@@ -1886,8 +1886,8 @@ a {
 	width: 266px;
 	min-height: 32px;
 	position: relative;
-	margin-left: 7px;
-	margin-top: 3px;
+	margin-left: 8px;
+	margin-top: 1px;
 	line-height: 0;
 }
 .cont-4 {
