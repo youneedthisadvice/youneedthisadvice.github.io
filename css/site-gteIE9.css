@@ -1,0 +1,12 @@
+
+.cont {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(0,0,0,0.200);
+}
+@media (max-width:959px) {
+.cont {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(0,0,0,0.200);
+}
+}
+

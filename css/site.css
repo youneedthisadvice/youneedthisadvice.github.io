@@ -60,167 +60,179 @@ a {
 #body {
 	background-color: rgb(86,180,234);
 }
+.cont {
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	min-width: 960px;
+	min-height: 90px;
+	position: relative;
+	z-index: 1;
+	margin-top: 0px;
+	border: 0;
+	background-color: rgba(0,0,0,0.200);
+}
 .section {
 	position: relative;
-	margin-top: 3px;
+	margin-top: 0px;
 	min-width: 960px;
 	width: 960px;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
 }
-.cont {
+.cont-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 846px;
-	width: 846px;
-	min-height: 104px;
+	min-width: 869px;
+	width: 869px;
+	min-height: 90px;
 	position: relative;
-	margin-left: 114px;
+	margin-left: 71px;
 	margin-top: 0px;
 }
 .colwrapper {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 732px;
-	width: 732px;
-	min-height: 92px;
+	min-width: 90px;
+	width: 90px;
+	min-height: 90px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 12px;
-	line-height: 0;
-}
-.cont-2 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 70px;
-	width: 70px;
-	min-height: 70px;
-	position: relative;
-	z-index: 6;
-	margin-left: 74px;
 	margin-top: 0px;
-	height: 70px;
-}
-.img {
-	position: absolute;
-	left: 0;
-	width: 70px;
-	height: 70px;
-	top: 0;
+	line-height: 0;
 }
 .cont-3 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 732px;
-	width: 732px;
-	min-height: 91px;
+	min-width: 90px;
+	width: 90px;
+	min-height: 90px;
+	position: relative;
+	z-index: 7;
+	margin-left: 0px;
+	margin-top: 0px;
+	height: 90px;
+}
+.img {
+	position: absolute;
+	left: 0;
+	width: 90px;
+	height: 90px;
+	top: 0;
+}
+.colwrapper-2 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 722px;
+	width: 722px;
+	min-height: 44px;
+	position: relative;
+	margin-left: -9px;
+	margin-top: 23px;
+	line-height: 0;
+}
+.cont-4 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 722px;
+	width: 722px;
+	min-height: 44px;
 	position: relative;
 	z-index: 2;
 	margin-left: 0px;
-	margin-top: -69px;
+	margin-top: 0px;
 	overflow: hidden;
 }
 .para {
 	text-indent: 0;
 	padding-top: 0pt;
-	margin-top: -3pt;
-	margin-bottom: 3pt;
+	margin-top: -2pt;
+	margin-bottom: 2pt;
 	text-align: center;
 }
 .font {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 28.5pt;
-	font-weight: 300;
-	font-style: normal;
-	text-decoration: none;
-	color: rgb(255,255,255);
-	line-height: 31pt;
-	letter-spacing: 1.00px;
-}
-.font-2 {
-	font-family: "Helvetica Neue", sans-serif;
-	font-size: 28.5pt;
+	font-size: 27.8pt;
 	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 31pt;
+	line-height: 30pt;
 	letter-spacing: 1.00px;
 }
-.font-3 {
+.font-2 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 28.5pt;
+	font-size: 27.8pt;
 	font-weight: 300;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 31pt;
+	line-height: 30pt;
 	letter-spacing: 1.00px;
 }
 .para-2 {
 	text-indent: 0;
 	padding-top: 0pt;
-	margin-top: -3pt;
-	margin-bottom: 3pt;
+	margin-top: -2pt;
+	margin-bottom: 2pt;
 	text-align: center;
 }
-.font-4 {
+.font-3 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 28.5pt;
+	font-size: 27.8pt;
 	font-weight: 300;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 31pt;
+	line-height: 30pt;
 	letter-spacing: 1.00px;
 }
-.cont-4 {
+.cont-5 {
 	overflow: visible;
 }
-.colwrapper-2 {
+.colwrapper-3 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 61px;
-	width: 61px;
-	min-height: 80px;
+	min-width: 18px;
+	width: 18px;
+	min-height: 18px;
 	position: relative;
-	margin-left: 53px;
-	margin-top: 0px;
+	margin-left: 48px;
+	margin-top: 3px;
 	line-height: 0;
-}
-.cont-5 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 16px;
-	width: 16px;
-	min-height: 16px;
-	position: relative;
-	z-index: 1;
-	margin-left: 45px;
-	margin-top: 0px;
-	height: 16px;
-}
-.anchor {
-	display: block;
-	width: 16px;
-}
-.img-2 {
-	position: absolute;
-	left: 0;
-	width: 16px;
-	height: 16px;
-	top: 0;
 }
 .cont-6 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 55px;
-	width: 55px;
-	min-height: 20px;
+	min-width: 18px;
+	width: 18px;
+	min-height: 18px;
 	position: relative;
+	z-index: 8;
 	margin-left: 0px;
-	margin-top: 15px;
+	margin-top: 0px;
+	height: 18px;
+}
+.anchor {
+	display: block;
+	width: 18px;
+}
+.img-2 {
+	position: absolute;
+	left: 0;
+	width: 18px;
+	height: 18px;
+	top: 0;
+}
+.section-2 {
+	position: relative;
+	margin-top: -61px;
+	min-width: 960px;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 .cont-7 {
 	display: inline-block;
@@ -229,10 +241,22 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 0px;
-	margin-top: 9px;
+	z-index: 3;
+	margin-left: 899px;
+	margin-top: 0px;
 }
 .cont-8 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 55px;
+	width: 55px;
+	min-height: 20px;
+	position: relative;
+	z-index: 4;
+	margin-left: 899px;
+	margin-top: 9px;
+}
+.cont-9 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 931px;
@@ -240,9 +264,9 @@ a {
 	min-height: 549px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 0px;
+	margin-top: 29px;
 }
-.colwrapper-3 {
+.colwrapper-4 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 443px;
@@ -253,7 +277,7 @@ a {
 	margin-top: 1px;
 	line-height: 0;
 }
-.cont-9 {
+.cont-10 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 443px;
@@ -263,7 +287,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-4 {
+.colwrapper-5 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 443px;
@@ -274,14 +298,14 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-10 {
+.cont-11 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 402px;
 	width: 402px;
 	min-height: 82px;
 	position: relative;
-	z-index: 3;
+	z-index: 6;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -293,7 +317,7 @@ a {
 	margin-bottom: 1pt;
 	text-align: center;
 }
-.font-5 {
+.font-4 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 21.0pt;
 	font-weight: 700;
@@ -303,7 +327,7 @@ a {
 	line-height: 26pt;
 	letter-spacing: 1.00px;
 }
-.font-6 {
+.font-5 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 21.0pt;
 	font-weight: 300;
@@ -320,7 +344,7 @@ a {
 	margin-bottom: 1pt;
 	text-align: center;
 }
-.font-7 {
+.font-6 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 21.0pt;
 	font-weight: 300;
@@ -330,17 +354,17 @@ a {
 	line-height: 25pt;
 	letter-spacing: 1.00px;
 }
-.cont-11 {
+.cont-12 {
 	overflow: visible;
 }
-.cont-12 {
+.cont-13 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 443px;
 	width: 443px;
 	min-height: 32px;
 	position: relative;
-	z-index: 11;
+	z-index: 28;
 	margin-left: 0px;
 	margin-top: -16px;
 	overflow: hidden;
@@ -352,7 +376,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-8 {
+.font-7 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 13.5pt;
 	font-weight: 300;
@@ -362,17 +386,17 @@ a {
 	line-height: 16pt;
 	letter-spacing: 1.00px;
 }
-.cont-13 {
+.cont-14 {
 	overflow: visible;
 }
-.cont-14 {
+.cont-15 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 443px;
 	width: 443px;
 	min-height: 73px;
 	position: relative;
-	z-index: 28;
+	z-index: 32;
 	margin-left: 0px;
 	margin-top: 5px;
 	overflow: visible;
@@ -384,7 +408,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: center;
 }
-.font-9 {
+.font-8 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 13.5pt;
 	font-weight: 700;
@@ -394,7 +418,7 @@ a {
 	line-height: 18pt;
 	letter-spacing: 1.00px;
 }
-.font-10 {
+.font-9 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 13.5pt;
 	font-weight: 300;
@@ -411,7 +435,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: center;
 }
-.font-11 {
+.font-10 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 13.5pt;
 	font-weight: 300;
@@ -421,17 +445,17 @@ a {
 	line-height: 18pt;
 	letter-spacing: 1.00px;
 }
-.cont-15 {
+.cont-16 {
 	overflow: hidden;
 }
-.cont-16 {
+.cont-17 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 229px;
 	width: 229px;
 	min-height: 69px;
 	position: relative;
-	z-index: 7;
+	z-index: 12;
 	margin-left: 75px;
 	margin-top: 15px;
 }
@@ -459,18 +483,18 @@ a {
 	border-color: rgb(2,34,34);
 	color: rgb(255,255,255);
 }
-.cont-17 {
+.cont-18 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 402px;
 	width: 402px;
 	min-height: 61px;
 	position: relative;
-	z-index: 26;
+	z-index: 29;
 	margin-left: 0px;
 	margin-top: 20px;
 }
-.cont-18 {
+.cont-19 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 402px;
@@ -480,7 +504,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-5 {
+.colwrapper-6 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 402px;
@@ -491,14 +515,14 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-19 {
+.cont-20 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 402px;
 	width: 402px;
 	min-height: 24px;
 	position: relative;
-	z-index: 8;
+	z-index: 9;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: visible;
@@ -510,7 +534,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-12 {
+.font-11 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
 	font-weight: 700;
@@ -520,17 +544,17 @@ a {
 	line-height: 17pt;
 	letter-spacing: 1.00px;
 }
-.cont-20 {
+.cont-21 {
 	overflow: hidden;
 }
-.cont-21 {
+.cont-22 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 307px;
 	width: 307px;
 	min-height: 61px;
 	position: relative;
-	z-index: 9;
+	z-index: 10;
 	margin-left: 95px;
 	margin-top: -24px;
 	overflow: visible;
@@ -542,7 +566,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-13 {
+.font-12 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
 	font-weight: 300;
@@ -552,7 +576,7 @@ a {
 	line-height: 17pt;
 	letter-spacing: 1.00px;
 }
-.font-14 {
+.font-13 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
 	font-weight: 700;
@@ -562,10 +586,10 @@ a {
 	line-height: 17pt;
 	letter-spacing: 1.00px;
 }
-.cont-22 {
+.cont-23 {
 	overflow: hidden;
 }
-.cont-23 {
+.cont-24 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 429px;
@@ -583,6 +607,16 @@ a {
 	margin-bottom: -0pt;
 	text-align: left;
 }
+.font-14 {
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 9.8pt;
+	font-weight: 300;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(255,255,255);
+	line-height: 13pt;
+	letter-spacing: 1.00px;
+}
 .font-15 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.8pt;
@@ -593,20 +627,10 @@ a {
 	line-height: 13pt;
 	letter-spacing: 1.00px;
 }
-.font-16 {
-	font-family: "Helvetica Neue", sans-serif;
-	font-size: 9.8pt;
-	font-weight: 300;
-	font-style: normal;
-	text-decoration: none;
-	color: rgb(255,255,255);
-	line-height: 13pt;
-	letter-spacing: 1.00px;
-}
-.cont-24 {
+.cont-25 {
 	overflow: hidden;
 }
-.colwrapper-6 {
+.colwrapper-7 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 760px;
@@ -617,7 +641,7 @@ a {
 	margin-top: -369px;
 	line-height: 0;
 }
-.cont-25 {
+.cont-26 {
 	display: none;
 	vertical-align: top;
 	min-width: 750px;
@@ -625,20 +649,20 @@ a {
 	min-height: 45px;
 	height: 45px;
 	position: relative;
-	z-index: 25;
+	z-index: 27;
 	margin-left: 10px;
 	margin-top: 0px;
 	border: 0;
 	background-color: rgb(255,255,255);
 }
-.cont-26 {
+.cont-27 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 28px;
 	width: 28px;
 	min-height: 28px;
 	position: relative;
-	z-index: 10;
+	z-index: 26;
 	margin-left: 219px;
 	margin-top: 38px;
 	height: 28px;
@@ -650,18 +674,18 @@ a {
 	height: 28px;
 	top: 0;
 }
-.cont-27 {
+.cont-28 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 298px;
 	width: 298px;
 	min-height: 152px;
 	position: relative;
-	z-index: 27;
+	z-index: 33;
 	margin-left: -247px;
 	margin-top: 164px;
 }
-.cont-28 {
+.cont-29 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 298px;
@@ -679,7 +703,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-17 {
+.font-16 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.0pt;
 	font-weight: 300;
@@ -689,19 +713,8 @@ a {
 	line-height: 15pt;
 	letter-spacing: normal;
 }
-.cont-29 {
-	overflow: visible;
-}
 .cont-30 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 271px;
-	width: 271px;
-	min-height: 28px;
-	position: relative;
-	z-index: 13;
-	margin-left: 27px;
-	margin-top: 0px;
+	overflow: visible;
 }
 .cont-31 {
 	display: inline-block;
@@ -710,77 +723,11 @@ a {
 	width: 271px;
 	min-height: 28px;
 	position: relative;
-	margin-left: 0px;
+	z-index: 14;
+	margin-left: 27px;
 	margin-top: 0px;
-}
-.colwrapper-7 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 271px;
-	width: 271px;
-	min-height: 28px;
-	position: relative;
-	margin-left: 0px;
-	margin-top: 0px;
-	line-height: 0;
 }
 .cont-32 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 260px;
-	width: 260px;
-	min-height: 28px;
-	position: relative;
-	margin-left: 11px;
-	margin-top: 0px;
-	overflow: hidden;
-}
-.para-12 {
-	text-indent: 0;
-	padding-top: 0pt;
-	margin-top: -0pt;
-	margin-bottom: 0pt;
-	text-align: left;
-}
-.font-18 {
-	font-family: "Helvetica Neue", sans-serif;
-	font-size: 11.2pt;
-	font-weight: 300;
-	font-style: normal;
-	text-decoration: none;
-	color: rgb(255,255,255);
-	line-height: 14pt;
-	letter-spacing: 1.00px;
-}
-.cont-33 {
-	overflow: visible;
-}
-.cont-34 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 4px;
-	width: 4px;
-	min-height: 4px;
-	height: 4px;
-	position: relative;
-	margin-left: 0px;
-	margin-top: -20px;
-	border: 0;
-	border-radius: 2px;
-	background-color: rgb(255,248,55);
-}
-.cont-35 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 271px;
-	width: 271px;
-	min-height: 28px;
-	position: relative;
-	z-index: 16;
-	margin-left: 27px;
-	margin-top: -2px;
-}
-.cont-36 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 271px;
@@ -801,7 +748,84 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
+.cont-33 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 260px;
+	width: 260px;
+	min-height: 28px;
+	position: relative;
+	margin-left: 11px;
+	margin-top: 0px;
+	overflow: hidden;
+}
+.para-12 {
+	text-indent: 0;
+	padding-top: 0pt;
+	margin-top: -0pt;
+	margin-bottom: 0pt;
+	text-align: left;
+}
+.font-17 {
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 11.2pt;
+	font-weight: 300;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(255,255,255);
+	line-height: 14pt;
+	letter-spacing: 1.00px;
+}
+.cont-34 {
+	overflow: visible;
+}
+.cont-35 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 4px;
+	width: 4px;
+	min-height: 4px;
+	height: 4px;
+	position: relative;
+	margin-left: 0px;
+	margin-top: -20px;
+	border: 0;
+	border-radius: 2px;
+	background-color: rgb(255,248,55);
+}
+.cont-36 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 271px;
+	width: 271px;
+	min-height: 28px;
+	position: relative;
+	z-index: 17;
+	margin-left: 27px;
+	margin-top: -2px;
+}
 .cont-37 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 271px;
+	width: 271px;
+	min-height: 28px;
+	position: relative;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.colwrapper-9 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 271px;
+	width: 271px;
+	min-height: 28px;
+	position: relative;
+	margin-left: 0px;
+	margin-top: 0px;
+	line-height: 0;
+}
+.cont-38 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 260px;
@@ -819,7 +843,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-19 {
+.font-18 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 300;
@@ -829,10 +853,10 @@ a {
 	line-height: 14pt;
 	letter-spacing: 1.00px;
 }
-.cont-38 {
+.cont-39 {
 	overflow: visible;
 }
-.cont-39 {
+.cont-40 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 4px;
@@ -846,18 +870,18 @@ a {
 	border-radius: 2px;
 	background-color: rgb(255,248,55);
 }
-.cont-40 {
+.cont-41 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 271px;
 	width: 271px;
 	min-height: 43px;
 	position: relative;
-	z-index: 22;
+	z-index: 23;
 	margin-left: 27px;
 	margin-top: -2px;
 }
-.cont-41 {
+.cont-42 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 271px;
@@ -867,7 +891,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-9 {
+.colwrapper-10 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 271px;
@@ -878,7 +902,7 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-42 {
+.cont-43 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 258px;
@@ -896,7 +920,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-20 {
+.font-19 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 300;
@@ -906,7 +930,7 @@ a {
 	line-height: 15pt;
 	letter-spacing: 1.00px;
 }
-.font-21 {
+.font-20 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 700;
@@ -916,10 +940,10 @@ a {
 	line-height: 15pt;
 	letter-spacing: 1.00px;
 }
-.cont-43 {
+.cont-44 {
 	overflow: hidden;
 }
-.cont-44 {
+.cont-45 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 4px;
@@ -933,18 +957,18 @@ a {
 	border-radius: 2px;
 	background-color: rgb(255,248,55);
 }
-.cont-45 {
+.cont-46 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 271px;
 	width: 271px;
 	min-height: 28px;
 	position: relative;
-	z-index: 19;
+	z-index: 20;
 	margin-left: 27px;
 	margin-top: -2px;
 }
-.cont-46 {
+.cont-47 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 271px;
@@ -954,7 +978,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-10 {
+.colwrapper-11 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 271px;
@@ -965,7 +989,7 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-47 {
+.cont-48 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 261px;
@@ -983,7 +1007,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-22 {
+.font-21 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 300;
@@ -993,10 +1017,10 @@ a {
 	line-height: 14pt;
 	letter-spacing: 1.00px;
 }
-.cont-48 {
+.cont-49 {
 	overflow: visible;
 }
-.cont-49 {
+.cont-50 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 4px;
@@ -1010,7 +1034,7 @@ a {
 	border-radius: 2px;
 	background-color: rgb(255,248,55);
 }
-.colwrapper-11 {
+.colwrapper-12 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 458px;
@@ -1021,7 +1045,7 @@ a {
 	margin-top: -544px;
 	line-height: 0;
 }
-.cont-50 {
+.cont-51 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 445px;
@@ -1031,7 +1055,7 @@ a {
 	margin-left: 13px;
 	margin-top: 0px;
 }
-.colwrapper-12 {
+.colwrapper-13 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 445px;
@@ -1042,14 +1066,14 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-51 {
+.cont-52 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 429px;
 	width: 429px;
 	min-height: 549px;
 	position: relative;
-	z-index: 30;
+	z-index: 31;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 549px;
@@ -1061,7 +1085,7 @@ a {
 	height: 549px;
 	top: 0;
 }
-.cont-52 {
+.cont-53 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 420px;
@@ -1071,7 +1095,7 @@ a {
 	margin-left: 25px;
 	margin-top: -520px;
 }
-.colwrapper-13 {
+.colwrapper-14 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 380px;
@@ -1082,14 +1106,14 @@ a {
 	margin-top: 75px;
 	line-height: 0;
 }
-.cont-53 {
+.cont-54 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 380px;
 	width: 380px;
 	min-height: 445px;
 	position: relative;
-	z-index: 29;
+	z-index: 30;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1112,7 +1136,7 @@ a {
 [dir="rtl"] .gallery .slick-next {right: auto;left: -25px;}
 [dir="rtl"] .gallery .slick-prev {right: -25px;left: auto;}
 .slider img { width: 100%; }
-.colwrapper-14 {
+.colwrapper-15 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 54px;
@@ -1123,14 +1147,14 @@ a {
 	margin-top: -520px;
 	line-height: 0;
 }
-.cont-54 {
+.cont-55 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 54px;
 	width: 54px;
 	min-height: 520px;
 	position: relative;
-	z-index: 5;
+	z-index: 11;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 520px;
@@ -1142,7 +1166,7 @@ a {
 	height: 520px;
 	top: 0;
 }
-.cont-55 {
+.cont-56 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 458px;
@@ -1150,7 +1174,7 @@ a {
 	min-height: 2px;
 	height: 2px;
 	position: relative;
-	z-index: 31;
+	z-index: 34;
 	margin-left: 0px;
 	margin-top: -2px;
 	border: 0;
@@ -1160,65 +1184,88 @@ a {
 #body {
 	background-color: rgb(86,180,234);
 }
+.cont {
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	min-width: 320px;
+	min-height: 45px;
+	position: relative;
+	z-index: 1;
+	margin-top: 0px;
+	border: 0;
+	background-color: rgba(0,0,0,0.200);
+}
 .section {
 	position: relative;
-	margin-top: 3px;
+	margin-top: 0px;
 	min-width: 320px;
 	width: 320px;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
 }
-.cont {
+.cont-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 287px;
-	width: 287px;
-	min-height: 545px;
+	min-width: 281px;
+	width: 281px;
+	min-height: 45px;
 	position: relative;
-	margin-left: 29px;
+	margin-left: 39px;
 	margin-top: 0px;
 }
 .colwrapper {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 267px;
-	width: 267px;
-	min-height: 39px;
-	position: relative;
-	margin-left: 0px;
-	margin-top: 3px;
-	line-height: 0;
-}
-.cont-2 {
-	display: inline-block;
-	vertical-align: top;
 	min-width: 46px;
 	width: 46px;
-	min-height: 31px;
+	min-height: 45px;
 	position: relative;
-	z-index: 6;
 	margin-left: 0px;
-	margin-top: 1px;
-	height: 31px;
-}
-.img {
-	position: absolute;
-	left: 7px;
-	width: 31px;
-	height: 31px;
-	top: 0;
+	margin-top: 0px;
+	line-height: 0;
 }
 .cont-3 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 246px;
-	width: 246px;
+	min-width: 46px;
+	width: 46px;
+	min-height: 45px;
+	position: relative;
+	z-index: 7;
+	margin-left: 0px;
+	margin-top: 0px;
+	height: 45px;
+}
+.img {
+	position: absolute;
+	left: 0;
+	width: 45px;
+	height: 45px;
+	top: 0;
+}
+.colwrapper-2 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 270px;
+	width: 270px;
+	min-height: 39px;
+	position: relative;
+	margin-left: 11px;
+	margin-top: -39px;
+	line-height: 0;
+}
+.cont-4 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 270px;
+	width: 270px;
 	min-height: 39px;
 	position: relative;
 	z-index: 2;
-	margin-left: 21px;
-	margin-top: -32px;
+	margin-left: 0px;
+	margin-top: 0px;
 	overflow: hidden;
 }
 .para {
@@ -1231,16 +1278,6 @@ a {
 .font {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
-	font-weight: 300;
-	font-style: normal;
-	text-decoration: none;
-	color: rgb(255,255,255);
-	line-height: 14pt;
-	letter-spacing: 1.00px;
-}
-.font-2 {
-	font-family: "Helvetica Neue", sans-serif;
-	font-size: 12.8pt;
 	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
@@ -1248,7 +1285,7 @@ a {
 	line-height: 14pt;
 	letter-spacing: 1.00px;
 }
-.font-3 {
+.font-2 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
 	font-weight: 300;
@@ -1265,7 +1302,7 @@ a {
 	margin-bottom: 1pt;
 	text-align: center;
 }
-.font-4 {
+.font-3 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
 	font-weight: 300;
@@ -1275,29 +1312,29 @@ a {
 	line-height: 14pt;
 	letter-spacing: 1.00px;
 }
-.cont-4 {
+.cont-5 {
 	overflow: visible;
 }
-.colwrapper-2 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 223px;
-	width: 223px;
-	min-height: 545px;
-	position: relative;
-	margin-left: 64px;
-	margin-top: -42px;
-	line-height: 0;
-}
-.cont-5 {
+.colwrapper-3 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 11px;
 	width: 11px;
 	min-height: 11px;
 	position: relative;
-	z-index: 1;
-	margin-left: 212px;
+	margin-left: 266px;
+	margin-top: -42px;
+	line-height: 0;
+}
+.cont-6 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 11px;
+	width: 11px;
+	min-height: 11px;
+	position: relative;
+	z-index: 8;
+	margin-left: 0px;
 	margin-top: 0px;
 	height: 11px;
 }
@@ -1312,15 +1349,14 @@ a {
 	height: 11px;
 	top: 0;
 }
-.cont-6 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 55px;
-	width: 55px;
-	min-height: 20px;
+.section-2 {
 	position: relative;
-	margin-left: 0px;
-	margin-top: 514px;
+	margin-top: 11px;
+	min-width: 320px;
+	width: 320px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 .cont-7 {
 	display: inline-block;
@@ -1329,10 +1365,22 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 33px;
-	margin-top: 514px;
+	z-index: 3;
+	margin-left: 93px;
+	margin-top: 472px;
 }
 .cont-8 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 55px;
+	width: 55px;
+	min-height: 20px;
+	position: relative;
+	z-index: 4;
+	margin-left: 33px;
+	margin-top: 472px;
+}
+.cont-9 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 246px;
@@ -1342,7 +1390,7 @@ a {
 	margin-left: 50px;
 	margin-top: -492px;
 }
-.colwrapper-3 {
+.colwrapper-4 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 246px;
@@ -1353,7 +1401,7 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-9 {
+.cont-10 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 243px;
@@ -1363,7 +1411,7 @@ a {
 	margin-left: 3px;
 	margin-top: 0px;
 }
-.colwrapper-4 {
+.colwrapper-5 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 243px;
@@ -1374,14 +1422,14 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-10 {
+.cont-11 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 170px;
 	width: 170px;
 	min-height: 33px;
 	position: relative;
-	z-index: 3;
+	z-index: 6;
 	margin-left: 24px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -1393,7 +1441,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: center;
 }
-.font-5 {
+.font-4 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.0pt;
 	font-weight: 700;
@@ -1403,7 +1451,7 @@ a {
 	line-height: 11pt;
 	letter-spacing: 1.00px;
 }
-.font-6 {
+.font-5 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.0pt;
 	font-weight: 300;
@@ -1420,7 +1468,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: center;
 }
-.font-7 {
+.font-6 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.0pt;
 	font-weight: 300;
@@ -1430,17 +1478,17 @@ a {
 	line-height: 11pt;
 	letter-spacing: 1.00px;
 }
-.cont-11 {
+.cont-12 {
 	overflow: visible;
 }
-.cont-12 {
+.cont-13 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 243px;
 	width: 243px;
 	min-height: 16px;
 	position: relative;
-	z-index: 11;
+	z-index: 28;
 	margin-left: 0px;
 	margin-top: -2px;
 	overflow: hidden;
@@ -1452,7 +1500,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-8 {
+.font-7 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1462,17 +1510,17 @@ a {
 	line-height: 7pt;
 	letter-spacing: 1.00px;
 }
-.cont-13 {
+.cont-14 {
 	overflow: visible;
 }
-.cont-14 {
+.cont-15 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 233px;
 	width: 233px;
 	min-height: 36px;
 	position: relative;
-	z-index: 28;
+	z-index: 32;
 	margin-left: 0px;
 	margin-top: 10px;
 	overflow: visible;
@@ -1484,7 +1532,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: center;
 }
-.font-9 {
+.font-8 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 700;
@@ -1494,7 +1542,7 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.font-10 {
+.font-9 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1511,7 +1559,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: center;
 }
-.font-11 {
+.font-10 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1521,17 +1569,17 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.cont-15 {
+.cont-16 {
 	overflow: hidden;
 }
-.cont-16 {
+.cont-17 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 76px;
 	width: 76px;
 	min-height: 23px;
 	position: relative;
-	z-index: 7;
+	z-index: 12;
 	margin-left: 68px;
 	margin-top: 200px;
 }
@@ -1549,18 +1597,18 @@ a {
 	margin-bottom: 0;
 	height: 19px;
 }
-.cont-17 {
+.cont-18 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 189px;
 	width: 189px;
 	min-height: 24px;
 	position: relative;
-	z-index: 26;
+	z-index: 29;
 	margin-left: 28px;
 	margin-top: 14px;
 }
-.cont-18 {
+.cont-19 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 189px;
@@ -1570,7 +1618,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-5 {
+.colwrapper-6 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 189px;
@@ -1581,14 +1629,14 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-19 {
+.cont-20 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 49px;
 	width: 49px;
 	min-height: 12px;
 	position: relative;
-	z-index: 8;
+	z-index: 9;
 	margin-left: 0px;
 	margin-top: 1px;
 	overflow: visible;
@@ -1600,7 +1648,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-12 {
+.font-11 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 700;
@@ -1610,17 +1658,17 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.cont-20 {
+.cont-21 {
 	overflow: hidden;
 }
-.cont-21 {
+.cont-22 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 137px;
 	width: 137px;
 	min-height: 24px;
 	position: relative;
-	z-index: 9;
+	z-index: 10;
 	margin-left: 3px;
 	margin-top: 0px;
 	overflow: visible;
@@ -1632,7 +1680,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-13 {
+.font-12 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1642,7 +1690,7 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.font-14 {
+.font-13 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 700;
@@ -1652,10 +1700,10 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.cont-22 {
+.cont-23 {
 	overflow: hidden;
 }
-.cont-23 {
+.cont-24 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 198px;
@@ -1673,6 +1721,16 @@ a {
 	margin-bottom: -0pt;
 	text-align: left;
 }
+.font-14 {
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 5.2pt;
+	font-weight: 300;
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(255,255,255);
+	line-height: 7pt;
+	letter-spacing: 1.00px;
+}
 .font-15 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 5.2pt;
@@ -1683,20 +1741,10 @@ a {
 	line-height: 7pt;
 	letter-spacing: 1.00px;
 }
-.font-16 {
-	font-family: "Helvetica Neue", sans-serif;
-	font-size: 5.2pt;
-	font-weight: 300;
-	font-style: normal;
-	text-decoration: none;
-	color: rgb(255,255,255);
-	line-height: 7pt;
-	letter-spacing: 1.00px;
-}
-.cont-24 {
+.cont-25 {
 	overflow: hidden;
 }
-.colwrapper-6 {
+.colwrapper-7 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 192px;
@@ -1707,7 +1755,7 @@ a {
 	margin-top: -177px;
 	line-height: 0;
 }
-.cont-25 {
+.cont-26 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 154px;
@@ -1715,20 +1763,20 @@ a {
 	min-height: 1px;
 	height: 1px;
 	position: relative;
-	z-index: 25;
+	z-index: 27;
 	margin-left: 0px;
 	margin-top: 0px;
 	border: 0;
 	background-color: rgb(255,255,255);
 }
-.cont-26 {
+.cont-27 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 9px;
 	width: 9px;
 	min-height: 9px;
 	position: relative;
-	z-index: 10;
+	z-index: 26;
 	margin-left: -40px;
 	margin-top: 17px;
 	height: 9px;
@@ -1740,18 +1788,18 @@ a {
 	height: 9px;
 	top: 0;
 }
-.cont-27 {
+.cont-28 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 169px;
 	width: 169px;
 	min-height: 73px;
 	position: relative;
-	z-index: 27;
+	z-index: 33;
 	margin-left: 23px;
 	margin-top: 50px;
 }
-.cont-28 {
+.cont-29 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 134px;
@@ -1769,7 +1817,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-17 {
+.font-16 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1779,21 +1827,21 @@ a {
 	line-height: 7pt;
 	letter-spacing: 1.00px;
 }
-.cont-29 {
+.cont-30 {
 	overflow: visible;
 }
-.cont-30 {
+.cont-31 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 100px;
 	width: 100px;
 	min-height: 13px;
 	position: relative;
-	z-index: 13;
+	z-index: 14;
 	margin-left: 9px;
 	margin-top: 4px;
 }
-.cont-31 {
+.cont-32 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 100px;
@@ -1803,7 +1851,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-7 {
+.colwrapper-8 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 100px;
@@ -1814,7 +1862,7 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-32 {
+.cont-33 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 96px;
@@ -1832,7 +1880,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-18 {
+.font-17 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1842,10 +1890,10 @@ a {
 	line-height: 7pt;
 	letter-spacing: 1.00px;
 }
-.cont-33 {
+.cont-34 {
 	overflow: visible;
 }
-.cont-34 {
+.cont-35 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 1px;
@@ -1859,18 +1907,18 @@ a {
 	border-radius: 1px;
 	background-color: rgb(255,248,55);
 }
-.cont-35 {
+.cont-36 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 100px;
 	width: 100px;
 	min-height: 14px;
 	position: relative;
-	z-index: 16;
+	z-index: 17;
 	margin-left: 9px;
 	margin-top: -1px;
 }
-.cont-36 {
+.cont-37 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 100px;
@@ -1880,7 +1928,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-8 {
+.colwrapper-9 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 100px;
@@ -1891,7 +1939,7 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-37 {
+.cont-38 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 96px;
@@ -1909,7 +1957,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-19 {
+.font-18 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1919,10 +1967,10 @@ a {
 	line-height: 7pt;
 	letter-spacing: 1.00px;
 }
-.cont-38 {
+.cont-39 {
 	overflow: visible;
 }
-.cont-39 {
+.cont-40 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 1px;
@@ -1936,18 +1984,18 @@ a {
 	border-radius: 1px;
 	background-color: rgb(255,248,55);
 }
-.cont-40 {
+.cont-41 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 160px;
 	width: 160px;
 	min-height: 23px;
 	position: relative;
-	z-index: 22;
+	z-index: 23;
 	margin-left: 9px;
 	margin-top: -3px;
 }
-.cont-41 {
+.cont-42 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 160px;
@@ -1957,7 +2005,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-9 {
+.colwrapper-10 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 160px;
@@ -1968,7 +2016,7 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-42 {
+.cont-43 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 155px;
@@ -1986,7 +2034,7 @@ a {
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-20 {
+.font-19 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1996,7 +2044,7 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.font-21 {
+.font-20 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 700;
@@ -2006,10 +2054,10 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.cont-43 {
+.cont-44 {
 	overflow: hidden;
 }
-.cont-44 {
+.cont-45 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 1px;
@@ -2023,18 +2071,18 @@ a {
 	border-radius: 1px;
 	background-color: rgb(255,248,55);
 }
-.cont-45 {
+.cont-46 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 160px;
 	width: 160px;
 	min-height: 12px;
 	position: relative;
-	z-index: 19;
+	z-index: 20;
 	margin-left: 9px;
 	margin-top: 1px;
 }
-.cont-46 {
+.cont-47 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 160px;
@@ -2044,7 +2092,7 @@ a {
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-10 {
+.colwrapper-11 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 160px;
@@ -2055,7 +2103,7 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-47 {
+.cont-48 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 156px;
@@ -2073,7 +2121,7 @@ a {
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-22 {
+.font-21 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -2083,10 +2131,10 @@ a {
 	line-height: 7pt;
 	letter-spacing: 1.00px;
 }
-.cont-48 {
+.cont-49 {
 	overflow: visible;
 }
-.cont-49 {
+.cont-50 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 1px;
@@ -2100,7 +2148,7 @@ a {
 	border-radius: 1px;
 	background-color: rgb(255,248,55);
 }
-.colwrapper-11 {
+.colwrapper-12 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 148px;
@@ -2111,7 +2159,7 @@ a {
 	margin-top: -430px;
 	line-height: 0;
 }
-.cont-50 {
+.cont-51 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 148px;
@@ -2121,7 +2169,7 @@ a {
 	margin-left: 0px;
 	margin-top: 72px;
 }
-.colwrapper-12 {
+.colwrapper-13 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 148px;
@@ -2132,14 +2180,14 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-51 {
+.cont-52 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 143px;
 	width: 143px;
 	min-height: 182px;
 	position: relative;
-	z-index: 30;
+	z-index: 31;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 182px;
@@ -2151,7 +2199,7 @@ a {
 	height: 182px;
 	top: 0;
 }
-.cont-52 {
+.cont-53 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 139px;
@@ -2161,7 +2209,7 @@ a {
 	margin-left: 9px;
 	margin-top: -174px;
 }
-.colwrapper-13 {
+.colwrapper-14 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 127px;
@@ -2172,21 +2220,21 @@ a {
 	margin-top: 26px;
 	line-height: 0;
 }
-.cont-53 {
+.cont-54 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 127px;
 	width: 127px;
 	min-height: 147px;
 	position: relative;
-	z-index: 29;
+	z-index: 30;
 	margin-left: 0px;
 	margin-top: 0px;
 }
 .gallery .slider {
 	height: 147px;
 }
-.colwrapper-14 {
+.colwrapper-15 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 18px;
@@ -2197,14 +2245,14 @@ a {
 	margin-top: -173px;
 	line-height: 0;
 }
-.cont-54 {
+.cont-55 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 18px;
 	width: 18px;
 	min-height: 173px;
 	position: relative;
-	z-index: 5;
+	z-index: 11;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 173px;
@@ -2216,7 +2264,7 @@ a {
 	height: 173px;
 	top: 0;
 }
-.cont-55 {
+.cont-56 {
 	display: none;
 	vertical-align: top;
 	min-width: 83px;
@@ -2224,7 +2272,7 @@ a {
 	min-height: 50px;
 	height: 50px;
 	position: relative;
-	z-index: 31;
+	z-index: 34;
 	margin-left: 29px;
 	margin-top: 0px;
 	border: 0;
