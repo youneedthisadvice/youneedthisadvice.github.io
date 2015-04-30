@@ -139,7 +139,7 @@ a {
 	width: 722px;
 	min-height: 44px;
 	position: relative;
-	z-index: 2;
+	z-index: 3;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -171,23 +171,6 @@ a {
 	line-height: 30pt;
 	letter-spacing: 1.00px;
 }
-.para-2 {
-	text-indent: 0;
-	padding-top: 0pt;
-	margin-top: -2pt;
-	margin-bottom: 2pt;
-	text-align: center;
-}
-.font-3 {
-	font-family: "Helvetica Neue", sans-serif;
-	font-size: 27.8pt;
-	font-weight: 300;
-	font-style: normal;
-	text-decoration: none;
-	color: rgb(255,255,255);
-	line-height: 30pt;
-	letter-spacing: 1.00px;
-}
 .cont-5 {
 	overflow: visible;
 }
@@ -209,7 +192,7 @@ a {
 	width: 18px;
 	min-height: 18px;
 	position: relative;
-	z-index: 8;
+	z-index: 2;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 18px;
@@ -241,7 +224,7 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	z-index: 3;
+	z-index: 4;
 	margin-left: 899px;
 	margin-top: 0px;
 }
@@ -252,7 +235,7 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	z-index: 4;
+	z-index: 6;
 	margin-left: 899px;
 	margin-top: 9px;
 }
@@ -305,19 +288,19 @@ a {
 	width: 402px;
 	min-height: 82px;
 	position: relative;
-	z-index: 6;
+	z-index: 8;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-3 {
+.para-2 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -1pt;
 	margin-bottom: 1pt;
 	text-align: center;
 }
-.font-4 {
+.font-3 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 21.0pt;
 	font-weight: 700;
@@ -327,7 +310,7 @@ a {
 	line-height: 26pt;
 	letter-spacing: 1.00px;
 }
-.font-5 {
+.font-4 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 21.0pt;
 	font-weight: 300;
@@ -337,14 +320,14 @@ a {
 	line-height: 25pt;
 	letter-spacing: 1.00px;
 }
-.para-4 {
+.para-3 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -1pt;
 	margin-bottom: 1pt;
 	text-align: center;
 }
-.font-6 {
+.font-5 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 21.0pt;
 	font-weight: 300;
@@ -369,14 +352,14 @@ a {
 	margin-top: -16px;
 	overflow: hidden;
 }
-.para-5 {
+.para-4 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-7 {
+.font-6 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 13.5pt;
 	font-weight: 300;
@@ -401,14 +384,14 @@ a {
 	margin-top: 5px;
 	overflow: visible;
 }
-.para-6 {
+.para-5 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: center;
 }
-.font-8 {
+.font-7 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 13.5pt;
 	font-weight: 700;
@@ -418,7 +401,7 @@ a {
 	line-height: 18pt;
 	letter-spacing: 1.00px;
 }
-.font-9 {
+.font-8 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 13.5pt;
 	font-weight: 300;
@@ -428,14 +411,14 @@ a {
 	line-height: 18pt;
 	letter-spacing: 1.00px;
 }
-.para-7 {
+.para-6 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: center;
 }
-.font-10 {
+.font-9 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 13.5pt;
 	font-weight: 300;
@@ -527,14 +510,14 @@ a {
 	margin-top: 0px;
 	overflow: visible;
 }
-.para-8 {
+.para-7 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-11 {
+.font-10 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
 	font-weight: 700;
@@ -559,14 +542,14 @@ a {
 	margin-top: -24px;
 	overflow: visible;
 }
-.para-9 {
+.para-8 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-12 {
+.font-11 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
 	font-weight: 300;
@@ -576,7 +559,7 @@ a {
 	line-height: 17pt;
 	letter-spacing: 1.00px;
 }
-.font-13 {
+.font-12 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.8pt;
 	font-weight: 700;
@@ -600,14 +583,14 @@ a {
 	margin-top: 157px;
 	overflow: visible;
 }
-.para-10 {
+.para-9 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-14 {
+.font-13 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.8pt;
 	font-weight: 300;
@@ -617,7 +600,7 @@ a {
 	line-height: 13pt;
 	letter-spacing: 1.00px;
 }
-.font-15 {
+.font-14 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.8pt;
 	font-weight: 300;
@@ -696,14 +679,14 @@ a {
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-11 {
+.para-10 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-16 {
+.font-15 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 12.0pt;
 	font-weight: 300;
@@ -759,14 +742,14 @@ a {
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-12 {
+.para-11 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-17 {
+.font-16 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 300;
@@ -836,14 +819,14 @@ a {
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-13 {
+.para-12 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-18 {
+.font-17 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 300;
@@ -913,14 +896,14 @@ a {
 	margin-top: 0px;
 	overflow: visible;
 }
-.para-14 {
+.para-13 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-19 {
+.font-18 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 300;
@@ -930,7 +913,7 @@ a {
 	line-height: 15pt;
 	letter-spacing: 1.00px;
 }
-.font-20 {
+.font-19 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 700;
@@ -1000,14 +983,14 @@ a {
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-15 {
+.para-14 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-21 {
+.font-20 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 11.2pt;
 	font-weight: 300;
@@ -1208,8 +1191,8 @@ a {
 .cont-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 281px;
-	width: 281px;
+	min-width: 277px;
+	width: 277px;
 	min-height: 45px;
 	position: relative;
 	margin-left: 39px;
@@ -1248,22 +1231,22 @@ a {
 .colwrapper-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 270px;
-	width: 270px;
+	min-width: 200px;
+	width: 200px;
 	min-height: 39px;
 	position: relative;
-	margin-left: 11px;
-	margin-top: -39px;
+	margin-left: 0px;
+	margin-top: 6px;
 	line-height: 0;
 }
 .cont-4 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 270px;
-	width: 270px;
+	min-width: 200px;
+	width: 200px;
 	min-height: 39px;
 	position: relative;
-	z-index: 2;
+	z-index: 3;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -1295,23 +1278,6 @@ a {
 	line-height: 14pt;
 	letter-spacing: 1.00px;
 }
-.para-2 {
-	text-indent: 0;
-	padding-top: 0pt;
-	margin-top: -1pt;
-	margin-bottom: 1pt;
-	text-align: center;
-}
-.font-3 {
-	font-family: "Helvetica Neue", sans-serif;
-	font-size: 12.8pt;
-	font-weight: 300;
-	font-style: normal;
-	text-decoration: none;
-	color: rgb(255,255,255);
-	line-height: 14pt;
-	letter-spacing: 1.00px;
-}
 .cont-5 {
 	overflow: visible;
 }
@@ -1322,8 +1288,8 @@ a {
 	width: 11px;
 	min-height: 11px;
 	position: relative;
-	margin-left: 266px;
-	margin-top: -42px;
+	margin-left: 20px;
+	margin-top: 3px;
 	line-height: 0;
 }
 .cont-6 {
@@ -1333,7 +1299,7 @@ a {
 	width: 11px;
 	min-height: 11px;
 	position: relative;
-	z-index: 8;
+	z-index: 2;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 11px;
@@ -1365,7 +1331,7 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	z-index: 3;
+	z-index: 4;
 	margin-left: 93px;
 	margin-top: 472px;
 }
@@ -1376,7 +1342,7 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	z-index: 4;
+	z-index: 6;
 	margin-left: 33px;
 	margin-top: 472px;
 }
@@ -1429,19 +1395,19 @@ a {
 	width: 170px;
 	min-height: 33px;
 	position: relative;
-	z-index: 6;
+	z-index: 8;
 	margin-left: 24px;
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-3 {
+.para-2 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: center;
 }
-.font-4 {
+.font-3 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.0pt;
 	font-weight: 700;
@@ -1451,7 +1417,7 @@ a {
 	line-height: 11pt;
 	letter-spacing: 1.00px;
 }
-.font-5 {
+.font-4 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.0pt;
 	font-weight: 300;
@@ -1461,14 +1427,14 @@ a {
 	line-height: 11pt;
 	letter-spacing: 1.00px;
 }
-.para-4 {
+.para-3 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: center;
 }
-.font-6 {
+.font-5 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 9.0pt;
 	font-weight: 300;
@@ -1493,14 +1459,14 @@ a {
 	margin-top: -2px;
 	overflow: hidden;
 }
-.para-5 {
+.para-4 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-7 {
+.font-6 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1525,14 +1491,14 @@ a {
 	margin-top: 10px;
 	overflow: visible;
 }
-.para-6 {
+.para-5 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: center;
 }
-.font-8 {
+.font-7 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 700;
@@ -1542,7 +1508,7 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.font-9 {
+.font-8 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1552,14 +1518,14 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.para-7 {
+.para-6 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: center;
 }
-.font-10 {
+.font-9 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1641,14 +1607,14 @@ a {
 	margin-top: 1px;
 	overflow: visible;
 }
-.para-8 {
+.para-7 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-11 {
+.font-10 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 700;
@@ -1673,14 +1639,14 @@ a {
 	margin-top: 0px;
 	overflow: visible;
 }
-.para-9 {
+.para-8 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-12 {
+.font-11 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1690,7 +1656,7 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.font-13 {
+.font-12 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 700;
@@ -1714,14 +1680,14 @@ a {
 	margin-top: 81px;
 	overflow: visible;
 }
-.para-10 {
+.para-9 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-14 {
+.font-13 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 5.2pt;
 	font-weight: 300;
@@ -1731,7 +1697,7 @@ a {
 	line-height: 7pt;
 	letter-spacing: 1.00px;
 }
-.font-15 {
+.font-14 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 5.2pt;
 	font-weight: 300;
@@ -1810,14 +1776,14 @@ a {
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-11 {
+.para-10 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-16 {
+.font-15 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1873,14 +1839,14 @@ a {
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-12 {
+.para-11 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-17 {
+.font-16 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -1950,14 +1916,14 @@ a {
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-13 {
+.para-12 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-18 {
+.font-17 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -2027,14 +1993,14 @@ a {
 	margin-top: 0px;
 	overflow: visible;
 }
-.para-14 {
+.para-13 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: 0pt;
 	margin-bottom: -0pt;
 	text-align: left;
 }
-.font-19 {
+.font-18 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
@@ -2044,7 +2010,7 @@ a {
 	line-height: 8pt;
 	letter-spacing: 1.00px;
 }
-.font-20 {
+.font-19 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 700;
@@ -2114,14 +2080,14 @@ a {
 	margin-top: 0px;
 	overflow: hidden;
 }
-.para-15 {
+.para-14 {
 	text-indent: 0;
 	padding-top: 0pt;
 	margin-top: -0pt;
 	margin-bottom: 0pt;
 	text-align: left;
 }
-.font-21 {
+.font-20 {
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 6.0pt;
 	font-weight: 300;
