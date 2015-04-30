@@ -74,7 +74,7 @@ a {
 }
 .section {
 	position: relative;
-	margin-top: 0px;
+	margin-top: 9px;
 	min-width: 960px;
 	width: 960px;
 	margin-left: auto;
@@ -84,19 +84,19 @@ a {
 .cont-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 815px;
-	width: 815px;
-	min-height: 90px;
+	min-width: 807px;
+	width: 807px;
+	min-height: 81px;
 	position: relative;
-	margin-left: 71px;
+	margin-left: 79px;
 	margin-top: 0px;
 }
 .colwrapper {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 90px;
-	width: 90px;
-	min-height: 90px;
+	min-width: 71px;
+	width: 71px;
+	min-height: 72px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -105,21 +105,21 @@ a {
 .cont-3 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 90px;
-	width: 90px;
-	min-height: 90px;
+	min-width: 71px;
+	width: 71px;
+	min-height: 72px;
 	position: relative;
-	z-index: 6;
+	z-index: 7;
 	margin-left: 0px;
 	margin-top: 0px;
-	height: 90px;
+	height: 72px;
 }
 .img {
 	position: absolute;
 	left: 0;
-	width: 90px;
-	height: 90px;
-	top: 0;
+	width: 71px;
+	height: 71px;
+	top: 1px;
 }
 .colwrapper-2 {
 	display: inline-block;
@@ -128,8 +128,8 @@ a {
 	width: 707px;
 	min-height: 77px;
 	position: relative;
-	margin-left: 18px;
-	margin-top: 13px;
+	margin-left: 29px;
+	margin-top: 4px;
 	line-height: 0;
 }
 .cont-4 {
@@ -153,32 +153,32 @@ a {
 }
 .font {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 27.8pt;
+	font-size: 26.2pt;
 	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 25pt;
+	line-height: 24pt;
 	letter-spacing: 1.00px;
 }
 .font-2 {
 	font-family: "Helvetica Neue", sans-serif;
-	font-size: 27.8pt;
+	font-size: 26.2pt;
 	font-weight: 300;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 30pt;
+	line-height: 29pt;
 	letter-spacing: 1.00px;
 }
 .font-3 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 27.8pt;
+	font-size: 26.2pt;
 	font-weight: 300;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 25pt;
+	line-height: 24pt;
 	letter-spacing: 1.00px;
 }
 .cont-5 {
@@ -232,7 +232,7 @@ a {
 	width: 18px;
 	min-height: 18px;
 	position: relative;
-	z-index: 7;
+	z-index: 6;
 	margin-left: 922px;
 	margin-top: 0px;
 	height: 18px;
@@ -1832,7 +1832,7 @@ a {
 }
 .section {
 	position: relative;
-	margin-top: 0px;
+	margin-top: 5px;
 	min-width: 320px;
 	width: 320px;
 	margin-left: auto;
@@ -1842,19 +1842,19 @@ a {
 .cont-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 317px;
-	width: 317px;
-	min-height: 44px;
+	min-width: 307px;
+	width: 307px;
+	min-height: 35px;
 	position: relative;
-	margin-left: 3px;
+	margin-left: 13px;
 	margin-top: 0px;
 }
 .colwrapper {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 44px;
-	width: 44px;
-	min-height: 44px;
+	min-width: 34px;
+	width: 34px;
+	min-height: 34px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -1863,20 +1863,20 @@ a {
 .cont-3 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 44px;
-	width: 44px;
-	min-height: 44px;
+	min-width: 34px;
+	width: 34px;
+	min-height: 34px;
 	position: relative;
-	z-index: 6;
+	z-index: 7;
 	margin-left: 0px;
 	margin-top: 0px;
-	height: 44px;
+	height: 34px;
 }
 .img {
 	position: absolute;
 	left: 0;
-	width: 44px;
-	height: 44px;
+	width: 34px;
+	height: 34px;
 	top: 0;
 }
 .colwrapper-2 {
@@ -1887,7 +1887,7 @@ a {
 	min-height: 32px;
 	position: relative;
 	margin-left: 7px;
-	margin-top: 8px;
+	margin-top: 3px;
 	line-height: 0;
 }
 .cont-4 {
@@ -1963,12 +1963,12 @@ a {
 }
 .font-4 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 6.8pt;
+	font-size: 6.0pt;
 	font-weight: 300;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 7pt;
+	line-height: 6pt;
 	letter-spacing: 1.00px;
 }
 .cont-7 {
@@ -1990,7 +1990,7 @@ a {
 	width: 16px;
 	min-height: 16px;
 	position: relative;
-	z-index: 7;
+	z-index: 6;
 	margin-left: 77px;
 	margin-top: 470px;
 	height: 16px;
