@@ -230,7 +230,7 @@ a {
 }
 .section-2 {
 	position: relative;
-	margin-top: 18px;
+	margin-top: 22px;
 	min-width: 960px;
 	width: 960px;
 	margin-left: auto;
@@ -244,16 +244,16 @@ a {
 	width: 760px;
 	min-height: 47px;
 	position: relative;
-	margin-left: 154px;
+	margin-left: 0px;
 	margin-top: 0px;
-	overflow: hidden;
+	overflow: visible;
 }
 .para-3 {
 	text-indent: 0;
-	padding-top: 0pt;
+	padding-top: 1pt;
 	margin-top: 0pt;
-	margin-bottom: 0pt;
-	text-align: center;
+	margin-bottom: -1pt;
+	text-align: left;
 }
 .font-5 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -262,7 +262,7 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 25pt;
+	line-height: 27pt;
 	letter-spacing: 1.60px;
 }
 .font-6 {
@@ -272,7 +272,7 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 25pt;
+	line-height: 27pt;
 	letter-spacing: 1.60px;
 }
 .font-7 {
@@ -282,11 +282,11 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 25pt;
+	line-height: 27pt;
 	letter-spacing: 1.60px;
 }
 .cont-10 {
-	overflow: visible;
+	overflow: hidden;
 }
 .cont-11 {
 	display: inline-block;
@@ -296,17 +296,17 @@ a {
 	min-height: 558px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 27px;
+	margin-top: 23px;
 }
 .colwrapper-3 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 464px;
 	width: 464px;
-	min-height: 542px;
+	min-height: 558px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 16px;
+	margin-top: 0px;
 	line-height: 0;
 }
 .cont-12 {
@@ -423,7 +423,7 @@ a {
 	min-height: 69px;
 	position: relative;
 	margin-left: 74px;
-	margin-top: 27px;
+	margin-top: 22px;
 }
 .colwrapper-4 {
 	display: inline-block;
@@ -443,7 +443,7 @@ a {
 	width: 229px;
 	min-height: 69px;
 	position: relative;
-	z-index: 11;
+	z-index: 8;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -509,7 +509,7 @@ a {
 	position: relative;
 	z-index: 14;
 	margin-left: 0px;
-	margin-top: 9px;
+	margin-top: 21px;
 	overflow: hidden;
 }
 .para-7 {
@@ -572,7 +572,7 @@ a {
 	min-height: 65px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 6px;
+	margin-top: 15px;
 	overflow: visible;
 }
 .para-9 {
@@ -1182,7 +1182,7 @@ a {
 	width: 380px;
 	min-height: 445px;
 	position: relative;
-	z-index: 8;
+	z-index: 11;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1422,7 +1422,7 @@ a {
 }
 .section-2 {
 	position: relative;
-	margin-top: 5px;
+	margin-top: 11px;
 	min-width: 320px;
 	width: 320px;
 	margin-left: auto;
@@ -1432,20 +1432,20 @@ a {
 .cont-9 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 175px;
-	width: 175px;
+	min-width: 230px;
+	width: 230px;
 	min-height: 41px;
 	position: relative;
-	margin-left: 76px;
+	margin-left: 45px;
 	margin-top: 0px;
-	overflow: hidden;
+	overflow: visible;
 }
 .para-3 {
 	text-indent: 0;
-	padding-top: 0pt;
+	padding-top: 1pt;
 	margin-top: 0pt;
-	margin-bottom: 0pt;
-	text-align: center;
+	margin-bottom: -1pt;
+	text-align: left;
 }
 .font-5 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1454,7 +1454,7 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 10pt;
+	line-height: 12pt;
 	letter-spacing: 1.00px;
 }
 .font-6 {
@@ -1464,7 +1464,7 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 10pt;
+	line-height: 12pt;
 	letter-spacing: 1.00px;
 }
 .font-7 {
@@ -1474,11 +1474,11 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 10pt;
+	line-height: 12pt;
 	letter-spacing: 1.00px;
 }
 .cont-10 {
-	overflow: visible;
+	overflow: hidden;
 }
 .cont-11 {
 	display: inline-block;
@@ -1488,7 +1488,7 @@ a {
 	min-height: 449px;
 	position: relative;
 	margin-left: 47px;
-	margin-top: 7px;
+	margin-top: 1px;
 }
 .colwrapper-3 {
 	display: inline-block;
@@ -1635,7 +1635,7 @@ a {
 	width: 76px;
 	min-height: 23px;
 	position: relative;
-	z-index: 11;
+	z-index: 8;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -2364,7 +2364,7 @@ a {
 	width: 127px;
 	min-height: 147px;
 	position: relative;
-	z-index: 8;
+	z-index: 11;
 	margin-left: 0px;
 	margin-top: 0px;
 }
