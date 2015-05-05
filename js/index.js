@@ -12,8 +12,8 @@ $(document).ready(function() {
 r = function() {
 if($(window).width() >= 960) {
 $('.img').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/logo-3x-min-192.png' : 'images/logo-3x-min-128.png') : 'images/logo-3x-min-64.png');
-$('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon-3x-54.png' : 'images/pigeon-3x-36.png') : 'images/pigeon-3x-18.png');
-$('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/line-devices-3x-min-84.png' : 'images/line-devices-3x-min-56.png') : 'images/line-devices-3x-min-28.png');
+$('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/line-devices-3x-min-84.png' : 'images/line-devices-3x-min-56.png') : 'images/line-devices-3x-min-28.png');
+$('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon-3x-54.png' : 'images/pigeon-3x-36.png') : 'images/pigeon-3x-18.png');
 $('.img-4').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-3x-min-1260.png' : 'images/apple-iphone-8-3x-min-840.png') : 'images/apple-iphone-8-3x-min-420-2.png');
 var a='data-lazy'; if($('.gallery .slide0').hasAttr('src')) { a='src'; } $('.gallery .slide0').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_1_min-1140.png' : 'images/ph-slide_1_min-760.png') : 'images/ph-slide_1_min-380.png');
 var a='data-lazy'; if($('.gallery .slide1').hasAttr('src')) { a='src'; } $('.gallery .slide1').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_2_min-1140.png' : 'images/ph-slide_2_min-760.png') : 'images/ph-slide_2_min-380.png');
@@ -25,8 +25,8 @@ var a='data-lazy'; if($('.gallery .slide6').hasAttr('src')) { a='src'; } $('.gal
 $('.img-5').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-path-3-162.png' : 'images/apple-iphone-8-path-3-108.png') : 'images/apple-iphone-8-path-3-54-2.png');
 } else {
 $('.img').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/logo-3x-min-84.png' : 'images/logo-3x-min-56.png') : 'images/logo-3x-min-28.png');
-$('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon-3x-48.png' : 'images/pigeon-3x-32.png') : 'images/pigeon-3x-16.png');
-$('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/line-devices-3x-min-27.png' : 'images/line-devices-3x-min-18.png') : 'images/line-devices-3x-min-9.png');
+$('.img-2').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/line-devices-3x-min-27.png' : 'images/line-devices-3x-min-18.png') : 'images/line-devices-3x-min-9.png');
+$('.img-3').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/pigeon-3x-48.png' : 'images/pigeon-3x-32.png') : 'images/pigeon-3x-16.png');
 $('.img-4').attr('src', (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/apple-iphone-8-3x-min-420.png' : 'images/apple-iphone-8-3x-min-280.png') : 'images/apple-iphone-8-3x-min-140.png');
 var a='data-lazy'; if($('.gallery .slide0').hasAttr('src')) { a='src'; } $('.gallery .slide0').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_1_min-381.png' : 'images/ph-slide_1_min-254.png') : 'images/ph-slide_1_min-127.png');
 var a='data-lazy'; if($('.gallery .slide1').hasAttr('src')) { a='src'; } $('.gallery .slide1').attr(a, (window.devicePixelRatio > 1) ? ((window.devicePixelRatio > 2) ? 'images/ph-slide_2_min-381.png' : 'images/ph-slide_2_min-254.png') : 'images/ph-slide_2_min-127.png');
