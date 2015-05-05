@@ -240,53 +240,53 @@ a {
 .cont-9 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 732px;
-	width: 732px;
+	min-width: 760px;
+	width: 760px;
 	min-height: 47px;
 	position: relative;
-	margin-left: 154px;
+	margin-left: 155px;
 	margin-top: 0px;
-	overflow: visible;
+	overflow: hidden;
 }
 .para-3 {
 	text-indent: 0;
-	padding-top: 1pt;
+	padding-top: 0pt;
 	margin-top: 0pt;
-	margin-bottom: -1pt;
+	margin-bottom: 0pt;
 	text-align: center;
 }
 .font-5 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 24.0pt;
+	font-size: 24.8pt;
 	font-weight: 700;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 26pt;
-	letter-spacing: 1.00px;
+	line-height: 25pt;
+	letter-spacing: 1.60px;
 }
 .font-6 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 24.0pt;
+	font-size: 24.8pt;
 	font-weight: 400;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 26pt;
-	letter-spacing: 1.00px;
+	line-height: 25pt;
+	letter-spacing: 1.60px;
 }
 .font-7 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 24.0pt;
+	font-size: 24.8pt;
 	font-weight: 300;
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 26pt;
-	letter-spacing: 1.00px;
+	line-height: 25pt;
+	letter-spacing: 1.60px;
 }
 .cont-10 {
-	overflow: hidden;
+	overflow: visible;
 }
 .cont-11 {
 	display: inline-block;
@@ -1243,11 +1243,11 @@ a {
 .cont-2 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 301px;
-	width: 301px;
+	min-width: 297px;
+	width: 297px;
 	min-height: 28px;
 	position: relative;
-	margin-left: 18px;
+	margin-left: 13px;
 	margin-top: 0px;
 }
 .colwrapper {
@@ -1287,7 +1287,7 @@ a {
 	width: 265px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 8px;
+	margin-left: 4px;
 	margin-top: 1px;
 	line-height: 0;
 }
@@ -1351,8 +1351,8 @@ a {
 	min-height: 16px;
 	position: relative;
 	z-index: 7;
-	margin-left: 56px;
-	margin-top: -11px;
+	margin-left: 45px;
+	margin-top: -8px;
 	overflow: hidden;
 }
 .para-2 {
@@ -1399,19 +1399,19 @@ a {
 .cont-9 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 186px;
-	width: 186px;
+	min-width: 175px;
+	width: 175px;
 	min-height: 41px;
 	position: relative;
-	margin-left: 68px;
+	margin-left: 76px;
 	margin-top: 0px;
-	overflow: visible;
+	overflow: hidden;
 }
 .para-3 {
 	text-indent: 0;
-	padding-top: 1pt;
+	padding-top: 0pt;
 	margin-top: 0pt;
-	margin-bottom: -1pt;
+	margin-bottom: 0pt;
 	text-align: center;
 }
 .font-5 {
@@ -1421,7 +1421,7 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 12pt;
+	line-height: 10pt;
 	letter-spacing: 1.00px;
 }
 .font-6 {
@@ -1431,7 +1431,7 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 12pt;
+	line-height: 10pt;
 	letter-spacing: 1.00px;
 }
 .font-7 {
@@ -1441,11 +1441,11 @@ a {
 	font-style: normal;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 12pt;
+	line-height: 10pt;
 	letter-spacing: 1.00px;
 }
 .cont-10 {
-	overflow: hidden;
+	overflow: visible;
 }
 .cont-11 {
 	display: inline-block;
