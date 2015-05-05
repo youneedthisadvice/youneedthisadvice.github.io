@@ -149,7 +149,7 @@ a {
 	width: 757px;
 	min-height: 53px;
 	position: relative;
-	z-index: 36;
+	z-index: 35;
 	margin-left: 2px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -201,7 +201,7 @@ a {
 	width: 572px;
 	min-height: 34px;
 	position: relative;
-	z-index: 38;
+	z-index: 37;
 	margin-left: 0px;
 	margin-top: -11px;
 	overflow: hidden;
@@ -515,11 +515,11 @@ a {
 	vertical-align: top;
 	min-width: 464px;
 	width: 464px;
-	min-height: 25px;
+	min-height: 33px;
 	position: relative;
 	z-index: 14;
 	margin-left: 0px;
-	margin-top: 24px;
+	margin-top: 17px;
 	overflow: hidden;
 }
 .para-7 {
@@ -547,11 +547,11 @@ a {
 	vertical-align: top;
 	min-width: 464px;
 	width: 464px;
-	min-height: 29px;
+	min-height: 33px;
 	position: relative;
 	z-index: 33;
 	margin-left: 0px;
-	margin-top: -2px;
+	margin-top: -10px;
 	overflow: hidden;
 }
 .para-8 {
@@ -582,7 +582,7 @@ a {
 	min-height: 65px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 28px;
+	margin-top: 31px;
 	overflow: visible;
 }
 .para-9 {
@@ -1253,7 +1253,7 @@ a {
 	min-height: 10px;
 	height: 10px;
 	position: relative;
-	z-index: 35;
+	z-index: 38;
 	margin-top: 0px;
 	border: 0;
 	background-color: transparent;
@@ -1351,7 +1351,7 @@ a {
 	width: 265px;
 	min-height: 20px;
 	position: relative;
-	z-index: 36;
+	z-index: 35;
 	margin-left: 0px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -1403,7 +1403,7 @@ a {
 	width: 264px;
 	min-height: 16px;
 	position: relative;
-	z-index: 38;
+	z-index: 37;
 	margin-left: 0px;
 	margin-top: -5px;
 	overflow: hidden;
@@ -1707,7 +1707,7 @@ a {
 	vertical-align: top;
 	min-width: 237px;
 	width: 237px;
-	min-height: 16px;
+	min-height: 13px;
 	position: relative;
 	z-index: 14;
 	margin-left: 0px;
@@ -1739,11 +1739,11 @@ a {
 	vertical-align: top;
 	min-width: 237px;
 	width: 237px;
-	min-height: 16px;
+	min-height: 13px;
 	position: relative;
 	z-index: 33;
 	margin-left: 0px;
-	margin-top: -5px;
+	margin-top: -2px;
 	overflow: hidden;
 }
 .para-8 {
@@ -1774,7 +1774,7 @@ a {
 	min-height: 27px;
 	position: relative;
 	margin-left: 31px;
-	margin-top: 9px;
+	margin-top: 12px;
 	overflow: visible;
 }
 .para-9 {
@@ -2429,7 +2429,7 @@ a {
 	min-height: 3px;
 	height: 3px;
 	position: relative;
-	z-index: 35;
+	z-index: 38;
 	margin-top: -264px;
 	border: 0;
 	background-color: transparent;
