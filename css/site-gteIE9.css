@@ -1,12 +1,12 @@
 
 .cont-9 {
 	behavior: url(js/PIE.htc);
-	-pie-background: rgba(103,121,133,0.905);
+	-pie-background: rgba(138,141,143,0.905);
 }
 @media (max-width:959px) {
 .cont-9 {
 	behavior: url(js/PIE.htc);
-	-pie-background: rgba(103,121,133,0.905);
+	-pie-background: rgba(138,141,143,0.905);
 }
 }
 

@@ -65,16 +65,16 @@ a {
 	vertical-align: top;
 	width: 100%;
 	min-width: 960px;
-	min-height: 175px;
+	min-height: 190px;
 	position: relative;
 	z-index: 1;
-	margin-top: 1px;
+	margin-top: 0px;
 	border: 0;
 	background-color: rgb(238,143,93);
 }
 .section {
 	position: relative;
-	margin-top: 50px;
+	margin-top: 57px;
 	min-width: 960px;
 	width: 960px;
 	margin-left: auto;
@@ -231,16 +231,16 @@ a {
 	vertical-align: top;
 	width: 100%;
 	min-width: 960px;
-	min-height: 3px;
-	height: 3px;
+	min-height: 1px;
+	height: 1px;
 	position: relative;
 	margin-top: 0px;
 	border: 0;
-	background-color: rgba(103,121,133,0.905);
+	background-color: rgba(138,141,143,0.905);
 }
 .section-2 {
 	position: relative;
-	margin-top: 29px;
+	margin-top: 20px;
 	min-width: 960px;
 	width: 960px;
 	margin-left: auto;
@@ -303,17 +303,17 @@ a {
 	vertical-align: top;
 	min-width: 931px;
 	width: 931px;
-	min-height: 549px;
+	min-height: 565px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 32px;
+	margin-top: 13px;
 }
 .colwrapper-3 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 464px;
 	width: 464px;
-	min-height: 535px;
+	min-height: 551px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -433,7 +433,7 @@ a {
 	min-height: 69px;
 	position: relative;
 	margin-left: 74px;
-	margin-top: 26px;
+	margin-top: 35px;
 }
 .colwrapper-4 {
 	display: inline-block;
@@ -519,7 +519,7 @@ a {
 	position: relative;
 	z-index: 14;
 	margin-left: 0px;
-	margin-top: 25px;
+	margin-top: 24px;
 	overflow: hidden;
 }
 .para-7 {
@@ -582,7 +582,7 @@ a {
 	min-height: 65px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 20px;
+	margin-top: 28px;
 	overflow: visible;
 }
 .para-9 {
@@ -1010,7 +1010,7 @@ a {
 	min-height: 549px;
 	position: relative;
 	margin-left: 13px;
-	margin-top: 0px;
+	margin-top: 16px;
 	line-height: 0;
 }
 .cont-52 {
@@ -1438,7 +1438,7 @@ a {
 	position: relative;
 	margin-top: 0px;
 	border: 0;
-	background-color: rgba(103,121,133,0.905);
+	background-color: rgba(138,141,143,0.905);
 }
 .section-2 {
 	position: relative;
