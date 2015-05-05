@@ -221,8 +221,8 @@ a {
 	vertical-align: top;
 	width: 100%;
 	min-width: 960px;
-	min-height: 6px;
-	height: 6px;
+	min-height: 3px;
+	height: 3px;
 	position: relative;
 	margin-top: 0px;
 	border: 0;
@@ -244,7 +244,7 @@ a {
 	width: 760px;
 	min-height: 47px;
 	position: relative;
-	margin-left: 155px;
+	margin-left: 154px;
 	margin-top: 0px;
 	overflow: hidden;
 }
@@ -296,7 +296,7 @@ a {
 	min-height: 549px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 26px;
+	margin-top: 29px;
 }
 .colwrapper-3 {
 	display: inline-block;
@@ -1380,8 +1380,8 @@ a {
 	vertical-align: top;
 	width: 100%;
 	min-width: 320px;
-	min-height: 2px;
-	height: 2px;
+	min-height: 1px;
+	height: 1px;
 	position: relative;
 	margin-top: 0px;
 	border: 0;
@@ -1389,7 +1389,7 @@ a {
 }
 .section-2 {
 	position: relative;
-	margin-top: 4px;
+	margin-top: 5px;
 	min-width: 320px;
 	width: 320px;
 	margin-left: auto;
