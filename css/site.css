@@ -311,8 +311,8 @@ a {
 .colwrapper-3 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 464px;
-	width: 464px;
+	min-width: 474px;
+	width: 474px;
 	min-height: 551px;
 	position: relative;
 	margin-left: 0px;
@@ -545,8 +545,8 @@ a {
 .cont-24 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 464px;
-	width: 464px;
+	min-width: 474px;
+	width: 474px;
 	min-height: 33px;
 	position: relative;
 	z-index: 33;
@@ -1009,7 +1009,7 @@ a {
 	width: 454px;
 	min-height: 549px;
 	position: relative;
-	margin-left: 13px;
+	margin-left: 3px;
 	margin-top: 16px;
 	line-height: 0;
 }
