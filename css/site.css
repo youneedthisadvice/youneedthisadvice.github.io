@@ -76,7 +76,7 @@ a {
 	width: 757px;
 	min-height: 74px;
 	position: relative;
-	z-index: 9;
+	z-index: 7;
 	margin-left: 102px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -161,7 +161,7 @@ a {
 	width: 280px;
 	min-height: 47px;
 	position: relative;
-	z-index: 12;
+	z-index: 9;
 	margin-left: 238px;
 	margin-top: -54px;
 	overflow: hidden;
@@ -199,9 +199,9 @@ a {
 .cont-8 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 895px;
-	width: 895px;
-	min-height: 549px;
+	min-width: 823px;
+	width: 823px;
+	min-height: 398px;
 	position: relative;
 	margin-left: 25px;
 	margin-top: 33px;
@@ -211,10 +211,10 @@ a {
 	vertical-align: top;
 	min-width: 430px;
 	width: 430px;
-	min-height: 398px;
+	min-height: 386px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 0px;
+	margin-top: 12px;
 	line-height: 0;
 }
 .cont-9 {
@@ -224,7 +224,7 @@ a {
 	width: 320px;
 	min-height: 127px;
 	position: relative;
-	z-index: 15;
+	z-index: 3;
 	margin-left: 55px;
 	margin-top: 0px;
 	overflow: visible;
@@ -311,7 +311,7 @@ a {
 	width: 314px;
 	min-height: 69px;
 	position: relative;
-	z-index: 5;
+	z-index: 4;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -373,9 +373,9 @@ a {
 	vertical-align: top;
 	min-width: 430px;
 	width: 430px;
-	min-height: 124px;
+	min-height: 86px;
 	position: relative;
-	z-index: 16;
+	z-index: 12;
 	margin-left: 0px;
 	margin-top: 31px;
 	overflow: visible;
@@ -389,12 +389,12 @@ a {
 }
 .font-8 {
 	font-family: Lato;
-	font-size: 21.0pt;
+	font-size: 18.0pt;
 	font-weight: 300;
 	font-style: italic;
 	text-decoration: none;
 	color: rgb(255,255,255);
-	line-height: 28pt;
+	line-height: 24pt;
 	letter-spacing: 1.60px;
 }
 .cont-15 {
@@ -403,34 +403,13 @@ a {
 .cont-16 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 237px;
-	width: 237px;
-	min-height: 20px;
-	position: relative;
-	margin-left: 87px;
-	margin-top: 27px;
-}
-.colwrapper-5 {
-	display: inline-block;
-	vertical-align: top;
 	min-width: 20px;
 	width: 20px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 0px;
-	margin-top: 0px;
-	line-height: 0;
-}
-.cont-17 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 20px;
-	width: 20px;
-	min-height: 20px;
-	position: relative;
-	z-index: 7;
-	margin-left: 0px;
-	margin-top: 0px;
+	z-index: 5;
+	margin-left: 205px;
+	margin-top: -10px;
 	height: 20px;
 }
 .anchor {
@@ -444,14 +423,24 @@ a {
 	height: 20px;
 	top: 0;
 }
-.colwrapper-6 {
+.cont-17 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 164px;
+	width: 164px;
+	min-height: 20px;
+	position: relative;
+	margin-left: -65px;
+	margin-top: 53px;
+}
+.colwrapper-5 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 55px;
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	margin-left: 53px;
+	margin-left: 0px;
 	margin-top: 0px;
 	line-height: 0;
 }
@@ -462,11 +451,11 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	z-index: 8;
+	z-index: 6;
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-7 {
+.colwrapper-6 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 55px;
@@ -484,48 +473,48 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	z-index: 14;
+	z-index: 10;
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-8 {
+.colwrapper-7 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 454px;
-	width: 454px;
-	min-height: 549px;
+	min-width: 331px;
+	width: 331px;
+	min-height: 398px;
 	position: relative;
-	margin-left: 11px;
+	margin-left: 62px;
 	margin-top: 0px;
 	line-height: 0;
 }
 .cont-20 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 454px;
-	width: 454px;
-	min-height: 549px;
+	min-width: 331px;
+	width: 331px;
+	min-height: 398px;
 	position: relative;
-	z-index: 6;
+	z-index: 11;
 	margin-left: 0px;
 	margin-top: 0px;
 }
 .cont-21 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 454px;
-	width: 454px;
-	min-height: 549px;
+	min-width: 331px;
+	width: 331px;
+	min-height: 398px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-9 {
+.colwrapper-8 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 454px;
-	width: 454px;
-	min-height: 549px;
+	min-width: 331px;
+	width: 331px;
+	min-height: 398px;
 	position: relative;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -534,70 +523,102 @@ a {
 .cont-22 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 429px;
-	width: 429px;
-	min-height: 549px;
+	min-width: 331px;
+	width: 331px;
+	min-height: 398px;
 	position: relative;
-	z-index: 10;
-	margin-left: 9px;
+	z-index: 15;
+	margin-left: 0px;
 	margin-top: 0px;
-	height: 549px;
-}
-.img-3 {
-	position: absolute;
-	left: 4px;
-	width: 420px;
-	height: 549px;
-	top: 0;
 }
 .cont-23 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 454px;
-	width: 454px;
+	min-width: 331px;
+	width: 331px;
+	min-height: 398px;
+	position: relative;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.colwrapper-9 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 331px;
+	width: 331px;
+	min-height: 398px;
+	position: relative;
+	margin-left: 0px;
+	margin-top: 0px;
+	line-height: 0;
+}
+.cont-24 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 314px;
+	width: 314px;
+	min-height: 398px;
+	position: relative;
+	z-index: 16;
+	margin-left: 6px;
+	margin-top: 0px;
+	height: 398px;
+}
+.img-3 {
+	position: absolute;
+	left: 4px;
+	width: 305px;
+	height: 398px;
+	top: 0;
+}
+.cont-25 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 331px;
+	width: 331px;
 	min-height: 2px;
 	height: 2px;
 	position: relative;
-	z-index: 11;
+	z-index: 17;
 	margin-left: 0px;
 	margin-top: -2px;
 	border: 0;
 	background-color: rgb(255,255,255);
 }
-.cont-24 {
+.cont-26 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 420px;
-	width: 420px;
-	min-height: 520px;
+	min-width: 306px;
+	width: 306px;
+	min-height: 377px;
 	position: relative;
-	margin-left: 34px;
-	margin-top: -520px;
+	margin-left: 25px;
+	margin-top: -377px;
 }
 .colwrapper-10 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 380px;
-	width: 380px;
-	min-height: 445px;
+	min-width: 277px;
+	width: 277px;
+	min-height: 323px;
 	position: relative;
 	margin-left: 0px;
-	margin-top: 75px;
+	margin-top: 54px;
 	line-height: 0;
 }
-.cont-25 {
+.cont-27 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 380px;
-	width: 380px;
-	min-height: 445px;
+	min-width: 277px;
+	width: 277px;
+	min-height: 323px;
 	position: relative;
-	z-index: 4;
+	z-index: 14;
 	margin-left: 0px;
 	margin-top: 0px;
 }
 .gallery .slider {
-	height: 445px;
+	height: 323px;
 }
 .gallery .slick-prev, .gallery .slick-next { height: 20px; width: 20px; margin-top: -10px; }
 .gallery .slick-prev:before, .gallery .slick-next:before { font-size: 20px; color: rgba(64,64,64,0.400); opacity: 0.75; }
@@ -618,34 +639,34 @@ a {
 .colwrapper-11 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 54px;
-	width: 54px;
-	min-height: 520px;
+	min-width: 40px;
+	width: 40px;
+	min-height: 377px;
 	position: relative;
-	margin-left: 366px;
-	margin-top: -520px;
+	margin-left: 266px;
+	margin-top: -377px;
 	line-height: 0;
 }
-.cont-26 {
+.cont-28 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 54px;
-	width: 54px;
-	min-height: 520px;
+	min-width: 40px;
+	width: 40px;
+	min-height: 377px;
 	position: relative;
-	z-index: 2;
+	z-index: 13;
 	margin-left: 0px;
 	margin-top: 0px;
-	height: 520px;
+	height: 377px;
 }
 .img-4 {
 	position: absolute;
 	left: 0;
-	width: 54px;
-	height: 520px;
+	width: 40px;
+	height: 377px;
 	top: 0;
 }
-.cont-27 {
+.cont-29 {
 	display: inline-block;
 	vertical-align: top;
 	width: 100%;
@@ -653,7 +674,7 @@ a {
 	min-height: 10px;
 	height: 10px;
 	position: relative;
-	margin-top: 4px;
+	margin-top: 0px;
 	border: 0;
 	background-color: transparent;
 }
@@ -677,7 +698,7 @@ a {
 	width: 265px;
 	min-height: 34px;
 	position: relative;
-	z-index: 9;
+	z-index: 7;
 	margin-left: 28px;
 	margin-top: 0px;
 	overflow: hidden;
@@ -762,7 +783,7 @@ a {
 	width: 150px;
 	min-height: 28px;
 	position: relative;
-	z-index: 12;
+	z-index: 9;
 	margin-left: 43px;
 	margin-top: -1px;
 	overflow: visible;
@@ -825,7 +846,7 @@ a {
 	width: 162px;
 	min-height: 44px;
 	position: relative;
-	z-index: 15;
+	z-index: 3;
 	margin-left: 4px;
 	margin-top: 0px;
 	overflow: visible;
@@ -912,7 +933,7 @@ a {
 	width: 113px;
 	min-height: 27px;
 	position: relative;
-	z-index: 5;
+	z-index: 4;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -966,7 +987,7 @@ a {
 	width: 154px;
 	min-height: 50px;
 	position: relative;
-	z-index: 16;
+	z-index: 12;
 	margin-left: 0px;
 	margin-top: 17px;
 	overflow: visible;
@@ -994,33 +1015,12 @@ a {
 .cont-16 {
 	display: inline-block;
 	vertical-align: top;
-	min-width: 82px;
-	width: 82px;
-	min-height: 31px;
-	position: relative;
-	margin-left: 55px;
-	margin-top: -15px;
-}
-.colwrapper-5 {
-	display: inline-block;
-	vertical-align: top;
 	min-width: 16px;
 	width: 16px;
 	min-height: 16px;
 	position: relative;
-	margin-left: 14px;
-	margin-top: 15px;
-	line-height: 0;
-}
-.cont-17 {
-	display: inline-block;
-	vertical-align: top;
-	min-width: 16px;
-	width: 16px;
-	min-height: 16px;
-	position: relative;
-	z-index: 7;
-	margin-left: 0px;
+	z-index: 5;
+	margin-left: 69px;
 	margin-top: 0px;
 	height: 16px;
 }
@@ -1035,7 +1035,17 @@ a {
 	height: 16px;
 	top: 0;
 }
-.colwrapper-6 {
+.cont-17 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 82px;
+	width: 82px;
+	min-height: 20px;
+	position: relative;
+	margin-left: 55px;
+	margin-top: -31px;
+}
+.colwrapper-5 {
 	display: none;
 	vertical-align: top;
 	min-width: 55px;
@@ -1053,11 +1063,11 @@ a {
 	width: 55px;
 	min-height: 20px;
 	position: relative;
-	z-index: 8;
+	z-index: 6;
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-7 {
+.colwrapper-6 {
 	display: none;
 	vertical-align: top;
 	min-width: 47px;
@@ -1075,11 +1085,11 @@ a {
 	width: 47px;
 	min-height: 20px;
 	position: relative;
-	z-index: 14;
+	z-index: 10;
 	margin-left: 0px;
 	margin-top: 0px;
 }
-.colwrapper-8 {
+.colwrapper-7 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 151px;
@@ -1097,11 +1107,43 @@ a {
 	width: 151px;
 	min-height: 182px;
 	position: relative;
-	z-index: 6;
+	z-index: 11;
 	margin-left: 0px;
 	margin-top: 0px;
 }
 .cont-21 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 151px;
+	width: 151px;
+	min-height: 182px;
+	position: relative;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.colwrapper-8 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 151px;
+	width: 151px;
+	min-height: 182px;
+	position: relative;
+	margin-left: 0px;
+	margin-top: 0px;
+	line-height: 0;
+}
+.cont-22 {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 151px;
+	width: 151px;
+	min-height: 182px;
+	position: relative;
+	z-index: 15;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.cont-23 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 151px;
@@ -1122,14 +1164,14 @@ a {
 	margin-top: 0px;
 	line-height: 0;
 }
-.cont-22 {
+.cont-24 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 143px;
 	width: 143px;
 	min-height: 182px;
 	position: relative;
-	z-index: 10;
+	z-index: 16;
 	margin-left: 3px;
 	margin-top: 0px;
 	height: 182px;
@@ -1141,7 +1183,7 @@ a {
 	height: 182px;
 	top: 0;
 }
-.cont-23 {
+.cont-25 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 151px;
@@ -1149,13 +1191,13 @@ a {
 	min-height: 1px;
 	height: 1px;
 	position: relative;
-	z-index: 11;
+	z-index: 17;
 	margin-left: 0px;
 	margin-top: -1px;
 	border: 0;
 	background-color: rgb(255,255,255);
 }
-.cont-24 {
+.cont-26 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 139px;
@@ -1176,14 +1218,14 @@ a {
 	margin-top: 26px;
 	line-height: 0;
 }
-.cont-25 {
+.cont-27 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 127px;
 	width: 127px;
 	min-height: 147px;
 	position: relative;
-	z-index: 4;
+	z-index: 14;
 	margin-left: 0px;
 	margin-top: 0px;
 }
@@ -1201,14 +1243,14 @@ a {
 	margin-top: -173px;
 	line-height: 0;
 }
-.cont-26 {
+.cont-28 {
 	display: inline-block;
 	vertical-align: top;
 	min-width: 18px;
 	width: 18px;
 	min-height: 173px;
 	position: relative;
-	z-index: 2;
+	z-index: 13;
 	margin-left: 0px;
 	margin-top: 0px;
 	height: 173px;
@@ -1220,7 +1262,7 @@ a {
 	height: 173px;
 	top: 0;
 }
-.cont-27 {
+.cont-29 {
 	display: inline-block;
 	vertical-align: top;
 	width: 100%;
