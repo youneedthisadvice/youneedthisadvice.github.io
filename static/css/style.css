@@ -21,7 +21,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     text-align: center;
     color: #fff;
     font-size: 16px;
-    font-family: AvenirNextLTPro-Demi;
+    font-family: Muli;
     -webkit-box-shadow: 0px 4px 0px #ffffff;
     -moz-box-shadow: 0px 4px 0px #ffffff;
     box-shadow: 0px 4px 0px #ffffff;
@@ -52,7 +52,7 @@ table
     border-collapse: collapse;
     border-spacing: 0;
     font-size: 17px;
-    font-family: AvenirNextLTPro-Medium;
+    font-family: Muli;
     color: #7B7B7B;
 }
 
@@ -66,175 +66,6 @@ table
 *:focus
 {
     outline: none;
-}
-
-@media screen and (min-width: 320px)
-{
-    #lecture
-    {
-        display: none;
-    }
-    #tryhere
-    {
-        display: none;
-    }
-}
-
-@media screen and (min-width: 900px)
-{
-    #lecture
-    {
-        background-color: #293134;
-        display: block;
-        position: absolute;
-        height: 353px;
-        width: 245px;
-        bottom: 0px;
-        right: 100px;
-        line-height: 13px;
-    }
-    #lecture p,#lecture span
-    {
-        font-family: Menlo,"source-code-pro",Courier,sans-serif;
-        font-size: 11px;
-        color: #9FBAC0;
-        letter-spacing: 0;
-        line-height: 15px;
-    }
-    #lecture button
-    {
-        background-color: #1FCD6F;
-        font-weight: 500;
-        padding: 5px 9px;
-        border: none;
-        border-radius: 2px;
-        position: absolute;
-        right: 10px;
-        bottom: 10px;
-    }
-#lecture button span {color:#293134;font-family:AvenirNextLTPro-Demi,sans-serif;letter-spacing:0;font-size:12px;letter-spacing:0;}
-    #lecture button:hover
-    {
-        cursor: pointer;
-        background-color: #34e083;
-    }
-    #lecture #next
-    {
-        z-index: 998;
-    }
-    #lecture #downloadiOS
-    {
-        display: none;
-        right: 82px;
-        z-index: 999;
-        border-radius: 2px;
-    }
-    #lecture .g
-    {
-        color: #1DC17B;
-    }
-    #lecture .r
-    {
-        color: #93C763;
-    }
-    #lecture .p
-    {
-        color: #DBBD57;
-    }
-    #lecture .v
-    {
-        color: #F89BEA;
-    }
-    #lecture .b
-    {
-        color: #3792CE;
-    }
-    #lecture .o
-    {
-        color: #EC7600;
-    }
-    #lecture .rot
-    {
-        color: #EE6A6A;
-    }
-#lecture .num {font-size:8px;border-right:1px solid #525252;font-size:10px;padding:9px 4px;margin-right:6px;color:#525252;}
-    .statusbar
-    {
-        position: absolute;
-        right: -0.5px;
-        bottom: 346px;
-        width: 258px;
-    }
-    #question
-    {
-        width: 100%;
-        background-color: #323E41;
-        padding: 12px 10px;
-    }
-    #code
-    {
-        padding: 12px 1px;
-    }
-    #code p
-    {
-        line-height: 24px;
-    }
-    #code input
-    {
-        background-color: #293134;
-        border: none;
-        border-bottom: 1px solid #4D5558;
-        border-radius: 0;
-        width: 41%;
-        padding-bottom: 3px;
-        color: #93C763;
-        font-family: Menlo,"source-code-pro",Courier,sans-serif;
-        font-size: 11px;
-        letter-spacing: 0;
-    }
-    #code input:focus
-    {
-        outline: 0;
-    }
-#console {position:absolute;bottom:0px;width:100%;padding:10px 10px 45px 10px;background-color:#323E41;z-index:5;display:none;-webkit-animation-duration:0.1s;-moz-animation-duration:0.1s;width:100%;margin:0 auto;line-height:16px;}
-    #console button
-    {
-        bottom: 9px;
-    }
-    #output
-    {
-        width: 100%;
-        border: 1px dashed #576063;
-        padding: 6px;
-        font-size: 11px;
-        margin-bottom: 10px;
-    }
-    #output p,#output span
-    {
-        color: #F1EBEB;
-    }
-    .full
-    {
-        height: 100%;
-    }
-    #tryhere
-    {
-        z-index: 9999;
-        display: block;
-        position: absolute;
-        right: 322px;
-        bottom: 425px;
-        width: 70px;
-    }
-}
-
-#lec-number
-{
-    position: absolute;
-    z-index: 999;
-    top: -23px;
-    right: 7px;
-    background-color: #00CD6F;
 }
 
 @media screen and (min-width: 320px)
@@ -285,18 +116,18 @@ table
     }
     .notice p
     {
-        font-family: AvenirNextLTPro-Medium;
+        font-family: Muli;
         font-size: 14px;
         line-height: 20px;
     }
     .notice p strong
     {
-        font-family: AvenirNextLTPro-Bold;
+        font-family: Muli;
         font-size: 15px;
     }
     .notice a
     {
-        font-family: AvenirNextLTPro-Medium;
+        font-family: Muli;
         color: #2bb2f6;
         font-size: 14px;
         text-decoration: none;
@@ -334,14 +165,14 @@ h1
 h2
 {
     color: #A49F9F;
-    font-family: AvenirNextLTPro-Medium;
+    font-family: Muli;
     font-size: 22px;
 }
 
 h3
 {
     color: #2E2D2E;
-    font-family: AvenirNextLTPro-Demi;
+    font-family: Muli;
     letter-spacing: 5px;
     font-size: 18px;
     padding: 45px 30px 20px 30px;
@@ -351,7 +182,7 @@ h3
 h4
 {
     color: #9C9C9C;
-    font-family: AvenirNextLTPro-Medium;
+    font-family: Muli;
     font-size: 24px;
     padding: 0 20px;
     text-align: center;
@@ -361,7 +192,7 @@ h4
 
 h5
 {
-    font-family: AvenirNextLTPro-Medium;
+    font-family: Muli;
     font-size: 22px;
     display: inline;
 }
@@ -369,20 +200,20 @@ h5
 p
 {
     font-size: 17px;
-    font-family: AvenirNextLTPro-Medium;
+    font-family: Muli;
     color: #7B7B7B;
 }
 
 ul
 {
     font-size: 17px;
-    font-family: AvenirNextLTPro-Medium;
+    font-family: Muli;
     color: #7B7B7B;
 }
 
 span
 {
-    font-family: AvenirNextLTPro-Bold;
+    font-family: Muli;
     font-size: 12px;
     color: #BEBBC3;
     letter-spacing: 2px;
@@ -411,7 +242,7 @@ hr
     padding-top: 20px;
 }
 
-.inner .navbar-links a {font-family:AvenirNextLTPro-Bold;font-size:10px;letter-spacing:2px;color:#fff;text-decoration:none;color:#2bb2f6;margin-right:25px;}
+.inner .navbar-links a {font-family:Muli;font-size:10px;letter-spacing:2px;color:#fff;text-decoration:none;color:#2bb2f6;margin-right:25px;}
 
 .inner .navbar-links a:last-child
 {
@@ -451,7 +282,7 @@ hr
 {
     float: left;
     font-size: 14px;
-    font-family: AvenirNextLTPro-Medium;
+    font-family: Muli;
     border: none;
     height: 100%;
     width: 245px;
@@ -618,7 +449,7 @@ hr
 .about-container .item .blog .text h5
 {
     color: #2E2D2E;
-    font-family: AvenirNextLTPro-Demi;
+    font-family: Muli;
 }
 
 .about-container .item .blog:hover
@@ -643,7 +474,7 @@ hr
     text-align: center;
     color: #fff;
     font-size: 16px;
-    font-family: AvenirNextLTPro-Demi;
+    font-family: Muli;
     -webkit-box-shadow: 0px 4px 0px #ffffff;
     -moz-box-shadow: 0px 4px 0px #ffffff;
     box-shadow: 0px 4px 0px #ffffff;
@@ -660,7 +491,7 @@ hr
     text-align: center;
     color: #fff;
     font-size: 16px;
-    font-family: AvenirNextLTPro-Demi;
+    font-family: Muli;
     -webkit-box-shadow: 0px 4px 0px #ffffff;
     -moz-box-shadow: 0px 4px 0px #ffffff;
     box-shadow: 0px 4px 0px #ffffff;
@@ -671,14 +502,14 @@ hr
     color: #ffffff;
     padding-top: 0;
     padding-bottom: 10px;
-    font-family: AvenirNextLTPro-Bold;
+    font-family: Muli;
 }
 
 .download-container h3:first-child
 {
     padding-top: 50px;
     padding-bottom: 25px;
-    font-family: AvenirNextLTPro-Demi;
+    font-family: Muli;
 }
 
 .download-container h1
@@ -687,7 +518,7 @@ hr
     font-size: 45px;
     text-align: left;
     max-width: 500px;
-    font-family: AvenirNextLTPro-Bold;
+    font-family: Muli;
 }
 
 .download-container .button-wrapper
@@ -717,7 +548,7 @@ hr
 
 .footer-container a
 {
-    font-family: AvenirNextLTPro-Bold;
+    font-family: Muli;
     font-size: 10px;
     letter-spacing: 2px;
     color: #fff;
@@ -735,7 +566,7 @@ hr
     align-self: flex-end;
 }
 
-.footer-container .copyright {display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;font-family:AvenirNextLTPro-Bold;font-size:10px;letter-spacing:2px;color:#fff;text-decoration:none;padding-top:20px;}
+.footer-container .copyright {display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;font-family:Muli;font-size:10px;letter-spacing:2px;color:#fff;text-decoration:none;padding-top:20px;}
 
 .footer-container hr
 {
@@ -1205,13 +1036,13 @@ hr
 {
     .notice ul
     {
-        font-family: AvenirNextLTPro-Medium;
+        font-family: Muli;
         font-size: 14px;
         line-height: 20px;
     }
     .notice table
     {
-        font-family: AvenirNextLTPro-Medium;
+        font-family: Muli;
         font-size: 14px;
         line-height: 20px;
     }
@@ -1232,4 +1063,3 @@ hr
         display: none;
     }
 }
-
