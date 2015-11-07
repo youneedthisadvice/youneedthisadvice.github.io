@@ -22,12 +22,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     color: #fff;
     font-size: 16px;
     font-family: Muli;
-    font-weight:bold;
+    font-weight: bold;
     -webkit-box-shadow: 0px 4px 0px #ffffff;
     -moz-box-shadow: 0px 4px 0px #ffffff;
     box-shadow: 0px 4px 0px #ffffff;
 }
-
 
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section
 {
@@ -87,6 +86,7 @@ table
     {
         width: 35px;
         float: right;
+        padding-top: 13px;
     }
 }
 
@@ -94,8 +94,9 @@ table
 {
     .notice img
     {
-        width: 37px;
+        width: 35px;
         float: right;
+        padding-top: 16px;
     }
 }
 
@@ -126,6 +127,7 @@ table
     {
         font-family: Muli;
         font-size: 15px;
+        font-weight: bold;
     }
     .notice a
     {
@@ -413,6 +415,7 @@ hr
     text-align: center;
     padding-top: 15px;
     font-size: 13px;
+    line-height: normal;
 }
 
 .about-container .item a
@@ -985,11 +988,16 @@ hr
     {
         margin-bottom: 40px;
     }
+@media screen and (min-width: 900px)
+{
     .notice img
     {
-        width: 47px;
+        width: 40px;
         float: right;
+        padding-top: 19px;
     }
+}
+
 }
 
 @media screen and (min-width: 1000px)
@@ -1061,5 +1069,39 @@ hr
     {
         display: none;
     }
+}
+
+.inner .cta p
+{
+    font-size: 14px;
+    text-align: left;
+    padding-top: 15px;
+    line-height: normal;
+}
+
+.inner .cta a
+{
+    color: #CF2622;
+    text-decoration: none;
+}
+
+.download-container p
+{
+    color: #ffffff;
+    padding-top: 20px;
+    line-height: normal;
+    font-size: 14px;
+    text-align: center;
+}
+
+.download-container a
+{
+    color: #00FF55;
+    text-decoration: none;
+}
+
+.download-container img
+{
+    height: 17px;
 }
 
