@@ -988,16 +988,12 @@ hr
     {
         margin-bottom: 40px;
     }
-@media screen and (min-width: 900px)
-{
     .notice img
     {
         width: 40px;
         float: right;
         padding-top: 19px;
     }
-}
-
 }
 
 @media screen and (min-width: 1000px)
@@ -1103,5 +1099,14 @@ hr
 .download-container img
 {
     height: 17px;
+}
+
+@media screen and (max-width:599px)
+{
+    .inner .jumbo h1
+    {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
 
