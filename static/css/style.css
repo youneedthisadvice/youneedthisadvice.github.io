@@ -194,6 +194,19 @@ h4
     margin: 0 auto;
 }
 
+@media screen and (max-width:319px)
+{
+@media screen and (max-width:319px)
+{
+    h4
+    {
+        font-size: 14px;
+        line-height: 15px;
+    }
+}
+
+}
+
 h5
 {
     font-family: Muli;
@@ -720,6 +733,15 @@ hr
     }
 }
 
+@media screen and (max-width:599px)
+{
+    .inner .jumbo h1
+    {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
 @media screen and (min-width: 600px)
 {
     h1
@@ -1099,14 +1121,5 @@ hr
 .download-container img
 {
     height: 17px;
-}
-
-@media screen and (max-width:599px)
-{
-    .inner .jumbo h1
-    {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
 }
 
