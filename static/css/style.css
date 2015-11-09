@@ -66,6 +66,7 @@ hr{border:0;height:0;border-bottom:1px solid #EDEDED;}
 .bonus-container .item .text{display:inline-block;width:70%;}
 .bonus-container .item .text p{padding-top:5px;font-size:13px;line-height:normal;}
 .bonus-container .item:first-child{border-right:1px solid #E0E0E0;}
+.bonus-container .item a {color:#CF2612;text-decoration:none;}
 .about-container{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;align-items:flex-start;-webkit-align-items:flex-start;margin:0 auto;margin:30px 0;}
 .about-container .item{width:300px;padding:20px 0;margin:10px 22px;}
 .about-container .item img{height:100px;display:block;margin:0 auto;}
