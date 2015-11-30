@@ -661,7 +661,7 @@ hr
     .inner #iphone
     {
         width: 350px;
-        margin-bottom: 90px;
+        margin-bottom: 102px;
         display: block;
         right: 0px;
     }
@@ -873,7 +873,7 @@ hr
         display: block;
         width: 380px;
         right: 0px;
-        margin-bottom: 180px;
+        margin-bottom: 152px;
     }
 }
 
@@ -944,7 +944,7 @@ hr
     {
         width: 490px;
         right: 0px;
-        margin-bottom: 175px;
+        margin-bottom: 152px;
     }
 }
 
@@ -1140,4 +1140,3 @@ hr
         font-size: 14px;
     }
 }
-
