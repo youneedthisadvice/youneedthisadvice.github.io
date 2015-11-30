@@ -20,7 +20,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     text-align: center;
     color: #fff;
     font-size: 16px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     font-weight: bold;
     -webkit-box-shadow: 0px 4px 0px #ffffff;
     -moz-box-shadow: 0px 4px 0px #ffffff;
@@ -52,7 +52,7 @@ table
     border-collapse: collapse;
     border-spacing: 0;
     font-size: 17px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     color: #7B7B7B;
 }
 
@@ -118,19 +118,19 @@ table
     }
     .notice p
     {
-        font-family: Muli;
+        font-family: 'Muli', sans-serif;
         font-size: 13px;
         line-height: 20px;
     }
     .notice p strong
     {
-        font-family: Muli;
+        font-family: 'Muli', sans-serif;
         font-size: 15px;
         font-weight: bold;
     }
     .notice a
     {
-        font-family: Muli;
+        font-family: 'Muli', sans-serif;
         color: #2bb2f6;
         font-size: 14px;
         text-decoration: none;
@@ -168,14 +168,14 @@ h1
 h2
 {
     color: #A49F9F;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     font-size: 22px;
 }
 
 h3
 {
     color: #2E2D2E;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     letter-spacing: 5px;
     font-size: 18px;
     padding: 45px 30px 20px 30px;
@@ -185,7 +185,7 @@ h3
 h4
 {
     color: #9C9C9C;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     font-size: 24px;
     padding: 0 20px;
     text-align: center;
@@ -204,7 +204,7 @@ h4
 
 h5
 {
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     font-size: 22px;
     display: inline;
 }
@@ -212,20 +212,20 @@ h5
 p
 {
     font-size: 17px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     color: #7B7B7B;
 }
 
 ul
 {
     font-size: 17px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     color: #7B7B7B;
 }
 
 span
 {
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     font-size: 12px;
     color: #BEBBC3;
     letter-spacing: 2px;
@@ -254,7 +254,7 @@ hr
     padding-top: 20px;
 }
 
-.inner .navbar-links a {font-family:Muli;font-size:10px;font-weight:bold;letter-spacing:2px;color:#fff;text-decoration:none;color:#2bb2f6;margin-right:25px;}
+.inner .navbar-links a {font-family: 'Muli', sans-serif;font-size:10px;font-weight:bold;letter-spacing:2px;color:#fff;text-decoration:none;color:#2bb2f6;margin-right:25px;}
 
 .inner .navbar-links a:last-child
 {
@@ -294,7 +294,7 @@ hr
 {
     float: left;
     font-size: 14px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     border: none;
     height: 100%;
     width: 245px;
@@ -462,7 +462,7 @@ hr
 .about-container .item .blog .text h5
 {
     color: #2E2D2E;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
 }
 
 .about-container .item .blog:hover
@@ -487,7 +487,7 @@ hr
     text-align: center;
     color: #fff;
     font-size: 16px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     -webkit-box-shadow: 0px 4px 0px #ffffff;
     -moz-box-shadow: 0px 4px 0px #ffffff;
     box-shadow: 0px 4px 0px #ffffff;
@@ -504,7 +504,7 @@ hr
     text-align: center;
     color: #fff;
     font-size: 16px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     -webkit-box-shadow: 0px 4px 0px #ffffff;
     -moz-box-shadow: 0px 4px 0px #ffffff;
     box-shadow: 0px 4px 0px #ffffff;
@@ -515,14 +515,14 @@ hr
     color: #ffffff;
     padding-top: 0;
     padding-bottom: 10px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
 }
 
 .download-container h3:first-child
 {
     padding-top: 50px;
     padding-bottom: 25px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
 }
 
 .download-container h1
@@ -531,7 +531,7 @@ hr
     font-size: 45px;
     text-align: left;
     max-width: 500px;
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
 }
 
 .download-container .button-wrapper
@@ -561,7 +561,7 @@ hr
 
 .footer-container a
 {
-    font-family: Muli;
+    font-family: 'Muli', sans-serif;
     font-size: 10px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -580,7 +580,7 @@ hr
     align-self: flex-end;
 }
 
-.footer-container .copyright {display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;font-family:Muli;font-size:10px;letter-spacing:2px;color:#fff;text-decoration:none;padding-top:20px;}
+.footer-container .copyright {display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;font-family: 'Muli', sans-serif;font-size:10px;letter-spacing:2px;color:#fff;text-decoration:none;padding-top:20px;}
 
 .footer-container hr
 {
@@ -1056,13 +1056,13 @@ hr
 {
     .notice ul
     {
-        font-family: Muli;
+        font-family: 'Muli', sans-serif;
         font-size: 13px;
         line-height: 20px;
     }
     .notice table
     {
-        font-family: Muli;
+        font-family: 'Muli', sans-serif;
         font-size: 13px;
         line-height: 20px;
     }
