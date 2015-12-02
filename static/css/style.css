@@ -642,7 +642,7 @@ hr
     .inner .navbar #logotype
     {
         display: block;
-        width: 90px;
+        height: 33px;
     }
     .inner .navbar-links
     {
@@ -1073,6 +1073,7 @@ hr
     .inner .navbar #logotype
     {
         min-width: 120px;
+        height:33px;
     }
 }
 
